@@ -1,0 +1,2599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="Capa_1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:freecad="http://www.freecadweb.org/wiki/index.php?title=Svg_Namespace" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1190.6 841.9"
+	 style="enable-background:new 0 0 1190.6 841.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:0.9911;stroke-miterlimit:11.3386;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:11.3252px;}
+	.st4{font-family:'ArialMT';}
+	.st5{font-size:14.383px;}
+	.st6{font-family:'Arial-BoldMT';}
+	.st7{font-size:23.9717px;}
+	.st8{font-size:15.9812px;}
+	.st9{font-size:8.7896px;}
+	.st10{font-size:5.5934px;}
+	.st11{fill:none;stroke:#000000;stroke-width:0.2835;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:1.1339;}
+	.st12{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st13{fill:none;stroke:#000000;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:1.1339;}
+	.st14{font-size:14.1732px;}
+	.st15{fill:none;stroke:#000000;stroke-width:0.3685;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:1.1339;}
+	
+		.st16{fill-rule:evenodd;clip-rule:evenodd;stroke:#000000;stroke-width:0.3685;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:1.1339;}
+	.st17{fill:none;}
+	.st18{font-size:12px;}
+</style>
+<desc>Drawing page: Page001 exported from FreeCAD document: APPA90C</desc>
+<g id="Page001" inkscape:groupmode="layer" inkscape:label="TechDraw">
+	<g id="A3_Landscape_EN_m52.svg" transform="scale(10.000000, 10.000000)">
+		<defs>
+			
+				<inkscape:perspective  id="perspective3148" inkscape:persp3d-origin="32 : 21.333333 : 1" inkscape:vp_x="0 : 32 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="64 : 32 : 1" sodipodi:type="inkscape:persp3d">
+				</inkscape:perspective>
+		</defs>
+		
+			<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="0" fit-margin-left="0" fit-margin-right="0" fit-margin-top="0" gridtolerance="10.0" guidetolerance="10.0" id="base" inkscape:current-layer="svg2" inkscape:cx="1233.3631" inkscape:cy="143.32043" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="987" inkscape:window-maximized="1" inkscape:window-width="1680" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="1.6770758" objecttolerance="10.0" pagecolor="#ffffff" showgrid="false" units="px">
+			</sodipodi:namedview>
+		<path id="path6" inkscape:connector-curvature="0" class="st0" d="M2.9,81.3h113.3"/>
+		<path id="path8" inkscape:connector-curvature="0" class="st0" d="M116.2,81.3V2.9"/>
+		<path id="path10" inkscape:connector-curvature="0" class="st0" d="M116.2,2.9H2.9"/>
+		<path id="path12" inkscape:connector-curvature="0" class="st0" d="M2.9,2.9v78.4"/>
+		<path id="path14" inkscape:connector-curvature="0" class="st0" d="M59.5,2.9V0"/>
+		<path id="path16" inkscape:connector-curvature="0" class="st0" d="M59.5,81.3v2.8"/>
+		<path id="path18" inkscape:connector-curvature="0" class="st0" d="M2.9,42.1H0"/>
+		<path id="path20" inkscape:connector-curvature="0" class="st0" d="M116.2,42.1h2.8"/>
+		<path id="path22" inkscape:connector-curvature="0" class="st0" d="M104.1,81.3v2.1"/>
+		<path id="path24" inkscape:connector-curvature="0" class="st0" d="M14.9,81.3v2.1"/>
+		<path id="path26" inkscape:connector-curvature="0" class="st0" d="M89.3,81.3v2.1"/>
+		<path id="path28" inkscape:connector-curvature="0" class="st0" d="M29.8,81.3v2.1"/>
+		<path id="path30" inkscape:connector-curvature="0" class="st0" d="M74.4,2.9V0.8"/>
+		<path id="path32" inkscape:connector-curvature="0" class="st0" d="M44.7,2.9V0.8"/>
+		<path id="path34" inkscape:connector-curvature="0" class="st0" d="M89.3,2.9V0.8"/>
+		<path id="path36" inkscape:connector-curvature="0" class="st0" d="M29.8,2.9V0.8"/>
+		<path id="path38" inkscape:connector-curvature="0" class="st0" d="M104.1,2.9V0.8"/>
+		<path id="path40" inkscape:connector-curvature="0" class="st0" d="M14.9,2.9V0.8"/>
+		<path id="path42" inkscape:connector-curvature="0" class="st0" d="M2.9,21.1H0.8"/>
+		<path id="path44" inkscape:connector-curvature="0" class="st0" d="M2.9,63.1H0.8"/>
+		<path id="path46" inkscape:connector-curvature="0" class="st0" d="M116.2,21.1h2.1"/>
+		<path id="path48" inkscape:connector-curvature="0" class="st0" d="M116.2,63.1h2.1"/>
+		<path id="path50" inkscape:connector-curvature="0" class="st0" d="M31.2,82h56.6"/>
+		<path id="path52" inkscape:connector-curvature="0" class="st0" d="M45.4,81.3v1.4"/>
+		<path id="path54" inkscape:connector-curvature="0" class="st0" d="M73.7,81.3v1.4"/>
+		<path id="path56" inkscape:connector-curvature="0" class="st0" d="M48.2,81.3V82"/>
+		<path id="path58" inkscape:connector-curvature="0" class="st0" d="M70.9,81.3V82"/>
+		<path id="path60" inkscape:connector-curvature="0" class="st0" d="M51,81.3V82"/>
+		<path id="path62" inkscape:connector-curvature="0" class="st0" d="M68,81.3V82"/>
+		<path id="path64" inkscape:connector-curvature="0" class="st0" d="M53.9,81.3V82"/>
+		<path id="path66" inkscape:connector-curvature="0" class="st0" d="M65.2,81.3V82"/>
+		<path id="path68" inkscape:connector-curvature="0" class="st0" d="M56.7,81.3V82"/>
+		<path id="path70" inkscape:connector-curvature="0" class="st0" d="M62.4,81.3V82"/>
+		<path id="path72" inkscape:connector-curvature="0" class="st0" d="M31.2,81.3v1.4"/>
+		<path id="path74" inkscape:connector-curvature="0" class="st0" d="M87.9,81.3v1.4"/>
+		<path id="path76" inkscape:connector-curvature="0" class="st0" d="M34,81.3V82"/>
+		<path id="path78" inkscape:connector-curvature="0" class="st0" d="M85,81.3V82"/>
+		<path id="path80" inkscape:connector-curvature="0" class="st0" d="M36.9,81.3V82"/>
+		<path id="path82" inkscape:connector-curvature="0" class="st0" d="M82.2,81.3V82"/>
+		<path id="path84" inkscape:connector-curvature="0" class="st0" d="M39.7,81.3V82"/>
+		<path id="path86" inkscape:connector-curvature="0" class="st0" d="M79.4,81.3V82"/>
+		<path id="path88" inkscape:connector-curvature="0" class="st0" d="M42.5,81.3V82"/>
+		<path id="path90" inkscape:connector-curvature="0" class="st0" d="M76.5,81.3V82"/>
+		<path id="path456" inkscape:connector-curvature="0" class="st1" d="M111.1,83.2h0.1l0.1-0.3h0.4l0.1,0.3h0.1l-0.4-1h-0.1
+			L111.1,83.2z M111.4,82.8l0.2-0.4l0.2,0.4H111.4z"/>
+		<path id="path460" inkscape:connector-curvature="0" class="st1" d="M7.2,83.2h0.1v-0.5h0.4v0.5h0.1v-1H7.7v0.4H7.3v-0.4H7.2V83.2
+			z"/>
+		<path id="path464" inkscape:connector-curvature="0" class="st1" d="M96.9,82.7L96.9,82.7l0.1-0.1l0-0.1l0-0.1l-0.1-0.1l-0.1,0
+			l-0.1,0h-0.4v1h0.4l0.1,0l0.1-0.1l0.1-0.1l0-0.1l0-0.1l0-0.1L96.9,82.7L96.9,82.7z M96.7,82.7h-0.2v-0.3h0.2l0.1,0l0.1,0l0,0
+			l0,0.1l0,0.1l0,0L96.7,82.7L96.7,82.7z M96.7,83.1h-0.2v-0.3h0.2l0.1,0l0.1,0l0,0.1l0,0.1l0,0.1l0,0.1L96.7,83.1L96.7,83.1z"/>
+		<path id="path468" inkscape:connector-curvature="0" class="st1" d="M22.6,83.1l0,0.1h0.1v-0.5h-0.4v0.1h0.2v0l0,0.1l0,0.1
+			l-0.1,0.1l-0.1,0l-0.1,0L22.2,83l0-0.1l0-0.2l0-0.2l0-0.1l0.1-0.1l0.1,0l0.1,0l0.1,0l0,0.1l0,0.1h0.1l0-0.1l-0.1-0.1l-0.1-0.1
+			l-0.1,0l-0.2,0l-0.1,0.1L22,82.5l0,0.2l0,0.2l0.1,0.2l0.1,0.1l0.1,0l0.1,0l0.1,0L22.6,83.1L22.6,83.1z"/>
+		<path id="path472" inkscape:connector-curvature="0" class="st1" d="M66.5,1.5v0.3h1V1.5l0-0.2l-0.1-0.1l-0.2-0.1l-0.2,0l-0.2,0
+			l-0.1,0l-0.1,0l-0.1,0.1L66.5,1.5L66.5,1.5z M66.6,1.5l0-0.1l0.1-0.1l0.1,0l0.2,0l0.2,0l0.1,0l0.1,0.1l0,0.1v0.2h-0.8L66.6,1.5z"
+			/>
+		<path id="path476" inkscape:connector-curvature="0" class="st1" d="M52.6,1.8V1.1h-0.1v0.5h-0.3V1.2H52v0.4h-0.3V1.1h-0.1v0.6
+			L52.6,1.8z"/>
+		<path id="path480" inkscape:connector-curvature="0" class="st1" d="M82,1.2l0.1,0l0.1,0l0.1,0.1l0,0.1l0,0.1l-0.1,0.1l-0.1,0
+			l-0.2,0l-0.2,0l-0.1,0l-0.1-0.1l0-0.1l0-0.1l0-0.1l0.1,0l0.1,0V1.1l-0.1,0l-0.1,0.1l-0.1,0.1l0,0.1l0,0.2l0.1,0.1l0.2,0.1l0.2,0
+			l0.2,0l0.2-0.1l0.1-0.1l0-0.2l0-0.1l-0.1-0.1l-0.1-0.1l-0.2,0L82,1.2z"/>
+		<path id="path484" inkscape:connector-curvature="0" class="st1" d="M37.7,1.8V1.6h-0.5V1.2h-0.1v0.4h-0.3V1.1h-0.1v0.6H37.7z"/>
+		<path id="path488" inkscape:connector-curvature="0" class="st1" d="M96.7,1.3L96.7,1.3l-0.1-0.1l-0.1,0l-0.1,0l-0.1,0.1l0,0.1
+			l0,0.1v0.4h1V1.4l0-0.1l-0.1-0.1L97,1.1l-0.1,0l-0.1,0l-0.1,0L96.7,1.3L96.7,1.3z M96.6,1.5v0.2h-0.3V1.5l0-0.1l0-0.1l0,0l0.1,0
+			l0.1,0l0,0L96.6,1.5L96.6,1.5z M97.1,1.4v0.2h-0.3V1.5l0-0.1l0-0.1l0.1,0l0.1,0l0.1,0l0.1,0L97.1,1.4L97.1,1.4z"/>
+		<path id="path492" inkscape:connector-curvature="0" class="st1" d="M22.7,1.2l0.1,0V1.1h-0.5v0.4h0.1V1.2h0l0.1,0l0.1,0l0.1,0.1
+			l0,0.1l0,0.1l-0.1,0.1l-0.1,0l-0.2,0l-0.2,0l-0.1,0L22,1.6l0-0.1l0-0.1l0-0.1l0.1,0l0.1,0V1.1l-0.1,0l-0.1,0.1l-0.1,0.1l0,0.1
+			l0,0.2L22,1.7l0.2,0.1l0.2,0l0.2,0l0.2-0.1l0.1-0.1l0-0.1l0-0.1l0-0.1L22.7,1.2L22.7,1.2z"/>
+		<path id="path496" inkscape:connector-curvature="0" class="st1" d="M112.1,1.9V1.8l-0.3-0.1V1.3l0.3-0.1V1l-1,0.4v0.1L112.1,1.9z
+			 M111.7,1.6l-0.4-0.2l0.4-0.2V1.6z"/>
+		<path id="path500" inkscape:connector-curvature="0" class="st1" d="M8,1.8V1.7H7.5V1.3H8V1.1H7v0.1h0.4v0.4H7v0.1H8z"/>
+		<path id="path504" inkscape:connector-curvature="0" class="st1" d="M1.7,32L1.7,32l0.1,0l0.1-0.1L2,31.8l0-0.1l0-0.1l-0.1-0.1
+			l-0.1-0.1l-0.1,0l-0.1,0l-0.1,0l-0.1,0.1l0,0.1l-0.1-0.1l-0.1,0l-0.1,0l-0.1,0.1L1,31.5l0,0.1l0,0.1l0.1,0.1l0.1,0.1l0.1,0h0v-0.1
+			l-0.1,0l-0.1,0l0-0.1l0-0.1l0-0.1l0-0.1l0,0l0.1,0l0.1,0l0,0l0,0.1l0,0.1l0,0.1h0.1l0-0.1l0-0.1l0-0.1l0.1,0l0.1,0l0.1,0l0.1,0
+			l0,0.1l0,0.1l0,0.1l0,0.1l-0.1,0l-0.1,0L1.7,32z"/>
+		<path id="path508" inkscape:connector-curvature="0" class="st1" d="M2,52.9v-0.7H1.9v0.5l-0.1,0l-0.1-0.1l-0.1-0.2l0-0.1
+			l-0.1-0.1l-0.1-0.1l-0.1,0l-0.1,0l-0.1,0l-0.1,0.1L1,52.5l0,0.1l0,0.1l0.1,0.1l0.1,0.1l0.1,0h0v-0.1h0l-0.1,0l-0.1,0l0-0.1l0-0.1
+			l0-0.1l0-0.1l0.1,0l0.1,0l0.1,0l0.1,0l0,0l0,0.1l0,0.1l0.1,0.1l0.1,0.1l0.1,0.1L2,52.9L2,52.9z"/>
+		<path id="path512" inkscape:connector-curvature="0" class="st1" d="M117.2,31.8L117.2,31.8l0,0.1l0.1,0.1l0.1,0.1l0.1,0l0.1,0
+			l0.1-0.1l0.1-0.1l0-0.1l0-0.1l0-0.1l-0.1-0.1l-0.1,0l0.1-0.1l0-0.1l0-0.1l-0.1-0.1l-0.1-0.1l-0.1,0l-0.1,0l-0.1,0.1l-0.1,0.1
+			l0,0.1v0h0.1l0-0.1l0-0.1l0.1,0l0.1,0l0.1,0l0.1,0l0,0l0,0.1l0,0.1l0,0l-0.1,0l-0.1,0l-0.1,0v0.1l0.1,0l0.1,0l0.1,0l0,0.1l0,0.1
+			l0,0.1l0,0.1l-0.1,0l-0.1,0l-0.1,0l-0.1,0l0-0.1l0-0.1L117.2,31.8z"/>
+		<path id="path516" inkscape:connector-curvature="0" class="st1" d="M117.2,53.1h0.7V53h-0.5l0-0.1l0.1-0.1l0.2-0.1l0.1,0l0.1-0.1
+			l0.1-0.1l0-0.1l0-0.1l0-0.1l-0.1-0.1l-0.1-0.1l-0.1,0l-0.1,0l-0.1,0.1l-0.1,0.1l0,0.1v0h0.1v0l0-0.1l0-0.1l0.1,0l0.1,0l0.1,0
+			l0.1,0l0,0.1l0,0.1l0,0.1l0,0.1l0,0l-0.1,0l-0.1,0l-0.1,0.1l-0.1,0.1l-0.1,0.1L117.2,53.1L117.2,53.1z"/>
+		<path id="path520" inkscape:connector-curvature="0" class="st1" d="M2,10.5v-0.1H1.7v-0.1H1.6v0.1H1v0.1l0.6,0.4h0.1v-0.4H2z
+			 M1.6,10.8l-0.4-0.3h0.4V10.8z"/>
+		<path id="path524" inkscape:connector-curvature="0" class="st1" d="M2,73.6v-0.1H1v0.1l0.1,0l0.1,0.1l0,0.1l0,0.1h0.1v-0.2H2z"/>
+		<path id="path528" inkscape:connector-curvature="0" class="st1" d="M117.7,11.1h0.1v-0.2h0.1v-0.1h-0.1v-0.6h-0.1l-0.4,0.6v0.1
+			h0.4V11.1z M117.4,10.7l0.3-0.4v0.4H117.4z"/>
+		<path id="path532" inkscape:connector-curvature="0" class="st1" d="M117.6,74.1h0.1v-1h-0.1l0,0.1l-0.1,0.1l-0.1,0l-0.1,0v0.1
+			h0.2L117.6,74.1z"/>
+		<path id="path92" inkscape:connector-curvature="0" class="st0" d="M62.4,81.3h53.8"/>
+		<path id="path94" inkscape:connector-curvature="0" class="st0" d="M62.4,81.3v-17"/>
+		<path id="path96" inkscape:connector-curvature="0" class="st0" d="M62.4,64.3h53.8"/>
+		<path id="path98" inkscape:connector-curvature="0" class="st0" d="M116.2,64.3v17"/>
+		<path id="path100" inkscape:connector-curvature="0" class="st0" d="M62.4,80.2h46.7"/>
+		<path id="path102" inkscape:connector-curvature="0" class="st0" d="M62.4,76.5h46.7"/>
+		<path id="path104" inkscape:connector-curvature="0" class="st0" d="M62.4,72.8h46.7"/>
+		<path id="path106" inkscape:connector-curvature="0" class="st0" d="M62.4,68.6h12.7"/>
+		<path id="path108" inkscape:connector-curvature="0" class="st0" d="M109.1,79.4h7.1"/>
+		<path id="path110" inkscape:connector-curvature="0" class="st0" d="M109.1,77.5h7.1"/>
+		<path id="path112" inkscape:connector-curvature="0" class="st0" d="M109.1,75.6h7.1"/>
+		<path id="path114" inkscape:connector-curvature="0" class="st0" d="M109.1,73.8h7.1"/>
+		<path id="path116" inkscape:connector-curvature="0" class="st0" d="M109.1,71.9h7.1"/>
+		<path id="path118" inkscape:connector-curvature="0" class="st0" d="M109.1,70h7.1"/>
+		<path id="path120" inkscape:connector-curvature="0" class="st0" d="M109.1,68.1h7.1"/>
+		<path id="path122" inkscape:connector-curvature="0" class="st0" d="M109.1,66.2h7.1"/>
+		<path id="path124" inkscape:connector-curvature="0" class="st0" d="M68,80.2v-7.4"/>
+		<path id="path126" inkscape:connector-curvature="0" class="st0" d="M75.1,80.2V64.3"/>
+		<path id="path128" inkscape:connector-curvature="0" class="st0" d="M103.4,80.2v-3.7"/>
+		<path id="path130" inkscape:connector-curvature="0" class="st0" d="M109.1,81.3v-17"/>
+		<path id="path596" inkscape:connector-curvature="0" class="st1" d="M109.5,80.7L109.5,80.7l0.2-0.2h0.3l0.1,0.2h0.1l-0.3-0.7
+			h-0.1L109.5,80.7z M109.7,80.4l0.1-0.3l0.1,0.3H109.7z"/>
+		<path id="path604" inkscape:connector-curvature="0" class="st1" d="M109.9,78.5L109.9,78.5L109.9,78.5l0.1-0.1l0-0.1l0-0.1
+			l-0.1,0l-0.1,0h-0.3v0.7h0.3l0.1,0l0.1,0l0-0.1l0-0.1l0-0.1L109.9,78.5L109.9,78.5L109.9,78.5z M109.8,78.4h-0.1v-0.2h0.1l0.1,0
+			l0,0l0,0l0,0l0,0L109.8,78.4L109.8,78.4L109.8,78.4z M109.8,78.8h-0.2v-0.2h0.2l0.1,0l0,0l0,0l0,0.1l0,0.1l0,0L109.8,78.8
+			L109.8,78.8z"/>
+		<path id="path612" inkscape:connector-curvature="0" class="st1" d="M110,76.7L110,76.7l-0.1,0.1l0,0l-0.1,0l-0.1,0l-0.1-0.1
+			l0-0.1l0-0.1l0-0.1l0-0.1l0.1-0.1l0.1,0l0,0l0,0l0,0l0,0.1h0.1l0-0.1l-0.1-0.1l-0.1,0l-0.1,0l-0.1,0l-0.1,0.1l-0.1,0.1l0,0.2
+			l0,0.2l0.1,0.1l0.1,0.1l0.1,0l0.1,0l0.1-0.1l0.1-0.1L110,76.7L110,76.7z"/>
+		<path id="path620" inkscape:connector-curvature="0" class="st1" d="M109.8,74.4h-0.2v0.7h0.2l0.1,0L110,75l0.1-0.1l0-0.2l0-0.2
+			l0-0.1l0,0l-0.1-0.1L109.8,74.4L109.8,74.4z M109.8,74.4L109.8,74.4l0.1,0.1l0,0.1l0,0.1l0,0.1l0,0.1l-0.1,0l-0.1,0h-0.1v-0.5
+			L109.8,74.4z"/>
+		<path id="path628" inkscape:connector-curvature="0" class="st1" d="M109.6,73.2h0.4v-0.1L109.6,73.2l0.1-0.3h0.3v-0.1h-0.3v-0.2
+			h0.3v-0.1h-0.4L109.6,73.2z"/>
+		<path id="path636" inkscape:connector-curvature="0" class="st1" d="M109.6,71.3L109.6,71.3l0.1-0.3h0.3v-0.1h-0.3v-0.2h0.4v-0.1
+			h-0.5V71.3z"/>
+		<path id="path644" inkscape:connector-curvature="0" class="st1" d="M110,69.3L110,69.3L110,69.3l0.1-0.3h-0.3v0.1h0.2v0l0,0.1
+			L110,69.3l-0.1,0l-0.1,0l-0.1,0l-0.1-0.1l0-0.1l0-0.1l0-0.1l0-0.1l0.1-0.1l0.1,0l0.1,0l0,0l0,0l0,0.1h0.1l0-0.1l-0.1-0.1l-0.1,0
+			l-0.1,0l-0.1,0l-0.1,0.1l-0.1,0.1l0,0.2l0,0.2l0.1,0.1l0.1,0.1l0.1,0l0.1,0L110,69.3L110,69.3L110,69.3z"/>
+		<path id="path652" inkscape:connector-curvature="0" class="st1" d="M109.6,67.5L109.6,67.5l0.1-0.3h0.3v0.3h0.1v-0.7h-0.1v0.3
+			h-0.3v-0.3h-0.1V67.5z"/>
+		<path id="path660" inkscape:connector-curvature="0" class="st1" d="M109.8,65.5h-0.1v0.1h0.4v-0.1H109.8l0.1-0.5h0.1v-0.1h-0.4
+			V65h0.1V65.5z"/>
+		<text transform="matrix(0.1 0 0 0.1 62.6411 66.0061)" class="st2 st3">ANTONIO SANCHEZ</text>
+		<text transform="matrix(0.1 0 0 0.1 62.5826 68.1439)" class="st2 st3">26/10/2022</text>
+		<text transform="matrix(0.1 0 0 0.1 62.5699 70.2484)" class="st2 st3">ANTONIO SANCHEZ</text>
+		<text transform="matrix(0.1 0 0 0.1 62.5553 72.3482)" class="st2 st3">26/10/2022</text>
+		<text transform="matrix(0.1 0 0 0.1 64.2945 75.3163)" class="st4 st5">A3</text>
+		<text transform="matrix(0.1 0 0 0.1 64.2882 78.9234)" class="st2 st3">1:1</text>
+		<text transform="matrix(0.1 0 0 0.1 68.8735 78.9234)" class="st2 st3">143g</text>
+		<text transform="matrix(0.1 0 0 0.1 75.5326 78.9234)" class="st2 st3">VERSION 1</text>
+		<text transform="matrix(0.1 0 0 0.1 105.2905 78.9234)" class="st2 st3">1/1</text>
+		<text transform="matrix(0.1 0 0 0.1 80.2726 68.3585)" class="st6 st7">APPA45C - NW3498</text>
+		<text transform="matrix(0.1 0 0 0.1 77.6015 70.5367)" class="st4 st8">45W USB TYPE-C POWER ADAPTER</text>
+		<text transform="matrix(0.1 0 0 0.1 75.5673 74.8705)" class="st2 st3">APPROX IBERIA S.L.</text>
+		<text transform="matrix(0.1 0 0 0.1 62.5455 81.025)" class="st2 st9">COPYRIGHT APPROX IBERIA S.L. 2022</text>
+		<text transform="matrix(0.1 0 0 0.1 110.8418 80.6357)" class="st2 st9">_________</text>
+		<text transform="matrix(0.1 0 0 0.1 110.8418 78.757)" class="st2 st9">_________</text>
+		<text transform="matrix(0.1 0 0 0.1 110.8418 76.8593)" class="st2 st9">_________</text>
+		<text transform="matrix(0.1 0 0 0.1 110.8216 74.9767)" class="st2 st9">_________</text>
+		<text transform="matrix(0.1 0 0 0.1 110.8014 73.103)" class="st2 st9">_________</text>
+		<text transform="matrix(0.1 0 0 0.1 110.8216 71.2054)" class="st2 st9">_________</text>
+		<text transform="matrix(0.1 0 0 0.1 110.8418 69.3168)" class="st2 st9">_________</text>
+		<text transform="matrix(0.1 0 0 0.1 110.8014 67.4379)" class="st2 st9">_________</text>
+		<text transform="matrix(0.1 0 0 0.1 110.8905 65.5407)" class="st2 st9">_________</text>
+		<text transform="matrix(0.1 0 0 0.1 62.5998 64.9174)" class="st2 st10">AUTHOR NAME :</text>
+		<text transform="matrix(0.1 0 0 0.1 62.6405 69.1955)" class="st2 st10">SUPERVISOR NAME :</text>
+		<text transform="matrix(0.1 0 0 0.1 62.5971 73.3878)" class="st2 st10">FORMAT :</text>
+		<text transform="matrix(0.1 0 0 0.1 75.3379 73.436)" class="st2 st10">COMPANY :</text>
+		<text transform="matrix(0.1 0 0 0.1 62.5987 77.1236)" class="st2 st10">SCALE :</text>
+		<text transform="matrix(0.1 0 0 0.1 68.2056 77.0978)" class="st2 st10">WEIGHT (kg) :</text>
+		<text transform="matrix(0.1 0 0 0.1 75.3379 77.1236)" class="st2 st10">VERSION :</text>
+		<text transform="matrix(0.1 0 0 0.1 103.6388 77.1236)" class="st2 st10">SHEET :</text>
+		<text transform="matrix(0.1 0 0 0.1 62.5998 67.0184)" class="st2 st10">DATE :</text>
+		<text transform="matrix(0.1 0 0 0.1 62.5998 71.2873)" class="st2 st10">DATE :</text>
+		<path id="path130-7" inkscape:connector-curvature="0" class="st0" d="M110.5,81.3v-17"/>
+	</g>
+	<g id="DrawingContent">
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<polygon class="st11" points="-981.3,-727.3 -981.3,-727.3 -981.3,-727.3 			"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-820.5-768.4h19.3c1.9,0,3.4,1.5,3.4,3.4v4.5c0,1.9-1.5,3.4-3.4,3.4
+				h-19.3v-0.1v-0.4v-0.3h-18.4v0.3v0.4v0.1h-11.3v11.8v0.9h-53.9v83.6c0,11.7-9.5,21.3-21.3,21.3h-133.2
+				c-11.7,0-21.3-9.5-21.3-21.3V-716l-39.9-2.7c-1.5-0.1-2.6-1.3-2.6-2.8v-0.1v0v0.1l-42.5-0.1V-733l42.5,0v-0.1
+				c0-1.5,1.2-2.7,2.6-2.8l39.9-2.7v-55.3c0-11.7,9.5-21.3,21.3-21.3h133.2c11.7,0,21.3,9.5,21.3,21.3v12.8h53.9v0.9v11.8h11.3v0.1
+				v0.4v0.3h18.4v-0.3v-0.4V-768.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-906.9-793.9v133.2c0,10.2-8.2,18.4-18.4,18.4h-133.2
+				c-10.2,0-18.4-8.2-18.4-18.4v-133.2c0-10.2,8.2-18.4,18.4-18.4h133.2C-915.2-812.4-906.9-804.1-906.9-793.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-904.1-753.6v8.3h53.9v-11.8v-3.7h-53.9V-753.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-904.1-780.3h53.9v11.8v3.7h-53.9v-7.3V-780.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1079.8-716v-22.7l-39.9,2.7v17.4L-1079.8-716"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1122.4-733l-42.5,0v11.3h42.5v-0.4v-0.7v-0.9v-1.1v-1.2v-1.3v-1.3
+				v-1.2v-1.1v-0.9v-0.7V-733"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1058.6-815.2h133.2v2.8h-133.2V-815.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-904.1-753.6v8.3v0.9v83.6h-2.8v-133.2h2.8v12.8v0.9v8.3v7.3v3.8
+				V-753.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-925.4-639.5v-2.8h-133.2v2.8H-925.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1079.8-660.7h2.8v-133.2h-2.8v55.3v22.7V-660.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-820.5-768.4h19.3v11.3h-19.3v-0.1v-0.4v-0.3v-0.4v-0.9v-1.1v-1.2
+				v-1.3v-1.3v-1.2v-1.1v-0.9v-0.4v-0.3v-0.4V-768.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-904.1-764.7h53.9v3.8h-53.9V-764.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-838.9-767.6h18.4v0.4v0.9v1.1v1.2v1.3v1.3v1.2v1.1v0.9v0.4h-18.4
+				v-0.4v-0.9v-1.1v-1.2v-1.3v-1.3v-1.2v-1.1v-0.9V-767.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-850.2-768.4h11.3v0.1v0.4v0.3v0.4v0.9v1.1v1.2v1.3v1.3v1.2v1.1v0.9
+				v0.4v0.3v0.4v0.1h-11.3v-3.7v-3.8V-768.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-925.4-815.2c11.7,0,21.3,9.5,21.3,21.3h-2.8
+				c0-10.2-8.2-18.4-18.4-18.4V-815.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1058.6-639.5v-2.8c-10.2,0-18.4-8.2-18.4-18.4h-2.8
+				C-1079.8-649-1070.3-639.5-1058.6-639.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1079.8-793.9c0-11.7,9.5-21.3,21.3-21.3v2.8
+				c-10.2,0-18.4,8.2-18.4,18.4H-1079.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-904.1-660.7h-2.8c0,10.2-8.2,18.4-18.4,18.4v2.8
+				C-913.6-639.5-904.1-649-904.1-660.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-904.1-745.3h53.9v0.9h-53.9V-745.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-904.1-781.2h53.9v0.9h-53.9V-781.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1122.4-721.5c0,1.5,1.2,2.7,2.6,2.8V-736c-1.5,0.1-2.6,1.3-2.6,2.8
+				v0.2v0.4v0.7v0.9v1.1v1.2v1.3v1.3v1.2v1.1v0.9v0.7v0.4v0V-721.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-801.2-768.4c1.9,0,3.4,1.5,3.4,3.4v4.5c0,1.9-1.5,3.4-3.4,3.4V-768.4
+				"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1079.8-716l-39.9-2.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1119.7-718.7c-1.5-0.1-2.6-1.3-2.6-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1122.4-721.5v-11.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1122.4-733.2v0.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1079.8-660.7v-133.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1058.6-639.5c-11.7,0-21.3-9.5-21.3-21.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1077-660.7v-133.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1079.8-793.9c0-11.7,9.5-21.3,21.3-21.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1122.4-721.7h-42.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1164.9-721.7V-733"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-925.4-639.5h-133.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1058.6-642.3c-10.2,0-18.4-8.2-18.4-18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1058.6-812.4h133.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1077-793.9c0-10.2,8.2-18.4,18.4-18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-925.4-812.4c10.2,0,18.4,8.2,18.4,18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-906.9-793.9v133.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-906.9-660.7c0,10.2-8.2,18.4-18.4,18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-925.4-642.3h-133.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1058.6-815.2h133.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-904.1-660.7c0,11.7-9.5,21.3-21.3,21.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-925.4-815.2c11.7,0,21.3,9.5,21.3,21.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-904.1-793.9v22"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-904.1-753.6v92.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-904.1-753.6v-7.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-904.1-764.7v3.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-904.1-772v7.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-850.2-745.3v-15.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-904.1-744.3h53.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-850.2-745.3v0.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-904.1-781.2h53.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-850.2-781.2v0.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-850.2-780.3v15.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-850.2-764.7v3.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-850.2-768.4h11.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-838.9-768.4v11.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-838.9-767.6h18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-820.5-768.4v11.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-820.5-768.4h19.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-797.8-765v4.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-801.2-768.4c1.9,0,3.4,1.5,3.4,3.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-797.8-765v4.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1119.7-736l39.9-2.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1119.7-736c-1.5,0.1-2.6,1.3-2.6,2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1164.9-733h42.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-838.9-757.1h-11.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-820.5-757.9h-18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-801.2-757.1h-19.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-801.2-757.1c1.9,0,3.4-1.5,3.4-3.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-801.2-757.1c1.9,0,3.4-1.5,3.4-3.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1119.7-718.7V-736"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1079.8-660.7h2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1079.8-793.9h2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1058.6-639.5v-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1058.6-815.2v2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-925.4-639.5v-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-925.4-815.2v2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-904.1-793.9h-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-904.1-660.7h-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-904.1-745.3h53.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-904.1-760.8h53.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-904.1-780.3h53.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-904.1-764.7h53.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st13" d="M-801.2-768.4v11.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1297.88,1348.17)">
+			<text transform="matrix(1 0 0 1 -928.8429 -946.1689)" class="st4 st14">62</text>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1015.07)">
+			<path vector-effect="none" class="st15" d="M-904.1-610.2h-175.7 M-1079.8-660.7v53.5 M-904.1-660.7v53.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1021.89,1428.27)">
+			<path vector-effect="none" class="st16" d="M-732.2-1023.4l14.2,2.4v-4.7L-732.2-1023.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1641.89,1428.27)">
+			<path vector-effect="none" class="st16" d="M-1176.5-1023.4l-14.2-2.4v4.7L-1176.5-1023.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-801.2-228.1c1.9,0,3.4-1.5,3.4-3.4v-2.3v-0.5v-0.5v-0.4v-0.4v-0.3
+				v-0.2v-0.1c0-1.9-1.5-3.4-3.4-3.4h-19.3v0.1v0.4v0.3h-18.4v-0.3v-0.4v-0.1h-11.3V-282h11.3v-0.1v-0.4v-0.3h18.4v0.3v0.4v0.1h19.3
+				c1.9,0,3.4-1.5,3.4-3.4v-2.3v-0.5v-0.5v-0.4v-0.4v-0.3v-0.2v-0.1c0-1.9-1.5-3.4-3.4-3.4h-19.3v0.1v0.4v0.3h-18.4v-0.3v-0.4v-0.1
+				h-11.3v-13.8v-0.8h-53.9v0.8v6.7l-2.8-2.8h-18.4h-133.2h-18.4l-2.8,2.8v28.3l-39.9,2.7c-1.5,0.1-2.6,1.3-2.6,2.8v0v0.1v0v-0.1
+				l-42.5,0.1v5.7v5.7l42.5,0.1v-0.1v0v0.1v0c0,1.5,1.2,2.7,2.6,2.8l39.9,2.7v28.3l2.8,2.8h18.4h133.2h18.4l2.8-2.8v6.7v0.8h53.9
+				v-0.8v-13.8h11.3v-0.1v-0.4v-0.3h18.4v0.3v0.4v0.1H-801.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-925.4-221v-79.4h-133.2v79.4H-925.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-904.1-290.6h53.9v8.7v42.5v8.7h-53.9V-290.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1058.6-221v-79.4h-21.3v28.3v11.3v11.3v28.3H-1058.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-904.1-228.7v7.7h-21.3v-79.4h21.3v7.7v2.1v59.9V-228.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-904.1-292.7h53.9v-0.6v-13.8h-53.9v6.7V-292.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-904.1-228.7h53.9v0.6v13.8h-53.9v-6.7V-228.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1119.7-252l39.9,2.7v-11.3h-39.9V-252"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1079.8-260.7V-272l-39.9,2.7v8.7H-1079.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-925.4-218.2v-2.8h-133.2v2.8H-925.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-925.4-300.4v-2.8h-133.2v2.8H-925.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1122.4-255c0,0,0-0.1,0-0.1c0-0.1,0-0.2,0-0.3c0-0.1,0-0.2,0-0.3
+				c0-0.1,0-0.3,0-0.4c0-0.1,0-0.3,0-0.4c0-0.2,0-0.3,0-0.5c0-0.2,0-0.4,0-0.5c0-0.2,0-0.4,0-0.6c0-0.2,0-0.4,0-0.6
+				c0-0.2,0-0.4,0-0.6c0-0.4,0-0.9,0-1.3l0,0h-42.5v5.7H-1122.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1122.4-260.7c0-0.2,0-0.4,0-0.7c0-0.4,0-0.9,0-1.3c0-0.2,0-0.4,0-0.6
+				c0-0.2,0-0.4,0-0.6c0-0.2,0-0.4,0-0.5c0-0.2,0-0.3,0-0.5c0-0.1,0-0.3,0-0.4c0-0.1,0-0.3,0-0.4c0-0.1,0-0.2,0-0.3
+				c0-0.1,0-0.2,0-0.3c0,0,0-0.1,0-0.1h-42.5v5.7H-1122.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-801.2-293.3v11.3h-19.3v-0.1v-0.4v-0.3v-0.4v-0.9v-1.1v-1.2v-1.3
+				v-1.3v-1.2v-1.1v-0.9v-0.4v-0.3v-0.4v-0.1H-801.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-801.2-239.4v11.3h-19.3v-0.1v-0.4v-0.3v-0.4v-0.9v-1.1v-1.2v-1.3
+				v-1.3v-1.2v-1.1v-0.9v-0.4v-0.3v-0.4v-0.1H-801.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-820.5-238.6v0.4v0.9v1.1v1.2v1.3v1.3v1.2v1.1v0.9v0.4h-18.4v-0.4
+				v-0.9v-1.1v-1.2v-1.3v-1.3v-1.2v-1.1v-0.9v-0.4H-820.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-820.5-292.4v0.4v0.9v1.1v1.2v1.3v1.3v1.2v1.1v0.9v0.4h-18.4v-0.4
+				v-0.9v-1.1v-1.2v-1.3v-1.3v-1.2v-1.1v-0.9v-0.4H-820.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-838.9-239.4v0.1v0.4v0.3v0.4v0.9v1.1v1.2v1.3v1.3v1.2v1.1v0.9v0.4
+				v0.3v0.4v0.1h-11.3v-0.6v-2.1v-8.7H-838.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-838.9-293.3v0.1v0.4v0.3v0.4v0.9v1.1v1.2v1.3v1.3v1.2v1.1v0.9v0.4
+				v0.3v0.4v0.1h-11.3v-8.7v-2.1v-0.6H-838.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-904.1-292.7h53.9v2.1h-53.9V-292.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-904.1-228.7h53.9v-2.1h-53.9V-228.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1058.6-218.2v-2.8h-21.3l2.8,2.8H-1058.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-904.1-300.4l-2.8-2.8h-18.4v2.8H-904.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1058.6-300.4v-2.8h-18.4l-2.8,2.8H-1058.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-906.9-218.2l2.8-2.8h-21.3v2.8H-906.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-904.1-213.5h53.9v-0.8h-53.9V-213.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-904.1-307.9h53.9v0.8h-53.9V-307.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-801.2-239.4v11.3c1.9,0,3.4-1.5,3.4-3.4v-2.3v-0.5v-0.5v-0.4v-0.4
+				v-0.3v-0.2v-0.1C-797.8-237.9-799.3-239.4-801.2-239.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-801.2-293.3v11.3c1.9,0,3.4-1.5,3.4-3.4v-2.3v-0.5v-0.5v-0.4v-0.4
+				v-0.3v-0.2v-0.1C-797.8-291.8-799.3-293.3-801.2-293.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1119.7-252v-8.7h-2.6l0,0c0,0.4,0,0.9,0,1.3c0,0.2,0,0.4,0,0.6
+				c0,0.2,0,0.4,0,0.6c0,0.2,0,0.4,0,0.6c0,0.2,0,0.4,0,0.5c0,0.2,0,0.3,0,0.5c0,0.1,0,0.3,0,0.4c0,0.1,0,0.3,0,0.4
+				c0,0.1,0,0.2,0,0.3c0,0.1,0,0.2,0,0.3c0,0,0,0.1,0,0.1v0v0.1v0C-1122.4-253.3-1121.2-252.1-1119.7-252"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-1122.4-260.7v-5.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-1122.4-254.8v-5.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-1079.8-221v-79.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-1058.6-221h-21.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-1058.6-300.4h-21.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-1077-218.2l-2.8-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-1079.8-300.4l2.8-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-1164.9-260.7v-5.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-1164.9-255v-5.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-925.4-221h-133.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-925.4-300.4h-133.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-1058.6-218.2h-18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-1058.6-303.2h-18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-906.9-218.2h-18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-925.4-218.2h-133.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-906.9-303.2h-18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-925.4-303.2h-133.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-904.1-221v-79.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-904.1-221h-21.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-904.1-300.4h-21.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-906.9-218.2l2.8-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-906.9-218.2l2.8-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-904.1-300.4l-2.8-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-904.1-292.7v-7.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-904.1-292.7v2.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-904.1-290.6v59.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-904.1-228.7v-2.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-904.1-228.7v7.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-904.1-213.5v-0.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-904.1-221v6.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-904.1-300.4v-6.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-904.1-307.9v0.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-850.2-292.7v-14.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-850.2-292.7v2.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-850.2-290.6v59.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-850.2-228.7v-2.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-850.2-228.7v14.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-850.2-213.5v-0.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-850.2-307.9v0.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-838.9-239.4v11.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-838.9-293.3v11.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-820.5-239.4v11.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-820.5-293.3v11.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-797.8-233.8v-2.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-797.8-236v4.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-797.8-231.5v-2.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-797.8-287.6v-2.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-797.8-289.9v4.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-797.8-285.4v-2.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-1119.7-269.4l39.9-2.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-1119.7-252l39.9,2.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-1119.7-269.4c-1.5,0.1-2.6,1.3-2.6,2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-1119.7-252c-1.5-0.1-2.6-1.3-2.6-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-1164.9-255h42.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-1164.9-266.4h42.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-904.1-213.5h53.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-904.1-307.9h53.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-838.9-239.4h-11.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-838.9-228.1h-11.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-838.9-293.3h-11.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-838.9-282h-11.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-820.5-238.6h-18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-820.5-228.9h-18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-820.5-292.4h-18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-820.5-282.8h-18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-801.2-239.4h-19.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-801.2-228.1h-19.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-801.2-293.3h-19.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-801.2-282h-19.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-801.2-239.4c1.9,0,3.4,1.5,3.4,3.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-801.2-228.1c1.9,0,3.4-1.5,3.4-3.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-801.2-293.3c1.9,0,3.4,1.5,3.4,3.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-801.2-282c1.9,0,3.4-1.5,3.4-3.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-1119.7-260.7v-8.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-1119.7-252v-8.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-1058.6-221v-79.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-925.4-221v-79.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-1058.6-218.2v-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-1058.6-300.4v-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-925.4-218.2v-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-925.4-300.4v-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-904.1-292.7h53.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-904.1-307.1h53.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-904.1-290.6h53.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-904.1-230.8h53.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-904.1-228.7h53.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-904.1-214.3h53.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-801.2-239.4v11.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-801.2-293.3v11.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-1079.8-260.7h-39.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-1119.7-260.7h-2.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st13" d="M-1122.4-260.7h-42.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1716.93,539.024)">
+			<text transform="matrix(1 0 0 1 -1229.1078 -366.3871)" class="st4 st14">19</text>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st15" d="M-850.2-188.3h-53.9 M-904.1-213.5v28.2 M-850.2-213.5v28.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1641.89,619.124)">
+			<path vector-effect="none" class="st16" d="M-1176.5-443.6l14.2,2.4v-4.7L-1176.5-443.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1831.89,619.124)">
+			<path vector-effect="none" class="st16" d="M-1312.6-443.6l-14.2-2.4v4.7L-1312.6-443.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1884.9,537.209)">
+			<text transform="matrix(1 0 0 1 -1349.4635 -365.0867)" class="st4 st14">18,5</text>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,363.824)">
+			<path vector-effect="none" class="st15" d="M-850.2-188.2h52.4 M-797.8-233.8v48.5 M-850.2-213.5v28.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2016.89,619.559)">
+			<path vector-effect="none" class="st16" d="M-1445.2-443.9l-14.2-2.4v4.7L-1445.2-443.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1831.89,619.559)">
+			<path vector-effect="none" class="st16" d="M-1312.6-443.9l14.2,2.4v-4.7L-1312.6-443.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-801.2-1187.4c1.9,0,3.4-1.5,3.4-3.4v-0.1v-0.2v-0.3v-0.4v-0.4v-0.5
+				v-0.5v-2.3c0-1.9-1.5-3.4-3.4-3.4h-19.3v0v0.1v0.2v0.2v0.3h-18.4v-0.3v-0.2v-0.2v-0.1v0h-11.3v-42.5h11.3v0v-0.1v-0.2v-0.2v-0.3
+				h18.4v0.3v0.2v0.2v0.1v0h19.3c1.9,0,3.4-1.5,3.4-3.4v-0.1v-0.2v-0.3v-0.4v-0.4v-0.5v-0.5v-2.3c0-1.9-1.5-3.4-3.4-3.4h-19.3v0v0.1
+				v0.2v0.2v0.3h-18.4v-0.3v-0.2v-0.2v-0.1v0h-11.3v-13.8v-0.8h-53.9v0.8v6.7l-2.8-2.8h-18.4h-133.2h-18.4l-2.8,2.8v28.3l-39.9,2.7
+				c-1.5,0.1-2.6,1.3-2.6,2.8v0.1v0v-0.1l-42.5,0.1v11.3l42.5,0.1v-0.1v0v0.1c0,1.5,1.2,2.7,2.6,2.8l39.9,2.7v28.3l2.8,2.8h18.4
+				h133.2h18.4l2.8-2.8v6.7v0.8h53.9v-0.8v-13.8h11.3v0v-0.1v-0.2v-0.2v-0.3h18.4v0.3v0.2v0.2v0.1v0H-801.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1058.6-1259.7h133.2v79.4h-133.2V-1259.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-904.1-1250h53.9v3v5.7v42.5v5.7v3h-53.9V-1250"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1079.8-1259.7h21.3v79.4h-21.3v-28.3v-22.7V-1259.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-925.4-1259.7h21.3v7.7v2.1v59.9v2.1v7.7h-21.3V-1259.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1119.7-1211.3v-17.4l39.9-2.7v22.7L-1119.7-1211.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-904.1-1188h53.9v0.6v13.8h-53.9v-6.7V-1188"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-904.1-1266.4h53.9v13.8v0.6h-53.9v-7.7V-1266.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1164.9-1214.3l42.5,0.1v-0.1v-0.4v-0.7v-0.9v-1.1v-1.2v-1.3v-1.3
+				v-1.2v-1.1v-0.9v-0.7v-0.4h-42.5V-1214.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1058.6-1180.3h133.2v2.8h-133.2V-1180.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1058.6-1262.5h133.2v2.8h-133.2V-1262.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-904.1-1190.1h53.9v2.1h-53.9V-1190.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-904.1-1252h53.9v2.1h-53.9V-1252"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-801.2-1252.6v5.7h-19.3c0-0.6,0-1.3,0-1.9c0-0.2,0-0.4,0-0.6
+				c0-0.2,0-0.4,0-0.6c0-0.2,0-0.3,0-0.5c0-0.2,0-0.3,0-0.5c0-0.1,0-0.3,0-0.4c0-0.1,0-0.3,0-0.4v-0.3v-0.2v-0.2v-0.1v0H-801.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-820.5-1193.1h19.3v5.7h-19.3v0v-0.1v-0.2v-0.2v-0.3
+				c0-0.1,0-0.3,0-0.4c0-0.1,0-0.3,0-0.4c0-0.2,0-0.3,0-0.5c0-0.2,0-0.3,0-0.5c0-0.2,0-0.4,0-0.6c0-0.2,0-0.4,0-0.6
+				c0-0.2,0-0.4,0-0.6C-820.5-1192.2-820.5-1192.7-820.5-1193.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-801.2-1198.8v5.7h-19.3c0-0.6,0-1.3,0-1.9c0-0.2,0-0.4,0-0.6
+				c0-0.2,0-0.4,0-0.6c0-0.2,0-0.3,0-0.5c0-0.2,0-0.3,0-0.5c0-0.1,0-0.3,0-0.4c0-0.1,0-0.3,0-0.4v-0.3v-0.2v-0.2v-0.1v0H-801.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-820.5-1246.9h19.3v5.7h-19.3v0v-0.1v-0.2v-0.2v-0.3
+				c0-0.1,0-0.3,0-0.4c0-0.1,0-0.3,0-0.4c0-0.2,0-0.3,0-0.5c0-0.2,0-0.3,0-0.5c0-0.2,0-0.4,0-0.6c0-0.2,0-0.4,0-0.6
+				c0-0.2,0-0.4,0-0.6C-820.5-1246.1-820.5-1246.5-820.5-1246.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-820.5-1251.8c0,0.1,0,0.3,0,0.4c0,0.1,0,0.3,0,0.4c0,0.2,0,0.3,0,0.5
+				c0,0.2,0,0.3,0,0.5c0,0.2,0,0.4,0,0.6c0,0.2,0,0.4,0,0.6c0,0.6,0,1.2,0,1.9h-18.4c0-0.6,0-1.3,0-1.9c0-0.2,0-0.4,0-0.6
+				c0-0.2,0-0.4,0-0.6c0-0.2,0-0.3,0-0.5c0-0.2,0-0.3,0-0.5c0-0.1,0-0.3,0-0.4c0-0.1,0-0.3,0-0.4H-820.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-838.9-1193.1h18.4c0,0.4,0,0.8,0,1.3c0,0.2,0,0.4,0,0.6
+				c0,0.2,0,0.4,0,0.6c0,0.2,0,0.4,0,0.6c0,0.2,0,0.3,0,0.5c0,0.2,0,0.3,0,0.5c0,0.1,0,0.3,0,0.4c0,0.1,0,0.3,0,0.4h-18.4
+				c0-0.1,0-0.3,0-0.4c0-0.1,0-0.3,0-0.4c0-0.2,0-0.3,0-0.5c0-0.2,0-0.3,0-0.5c0-0.2,0-0.4,0-0.6c0-0.2,0-0.4,0-0.6
+				c0-0.2,0-0.4,0-0.6C-838.9-1192.2-838.9-1192.7-838.9-1193.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-838.9-1246.9h18.4c0,0.4,0,0.8,0,1.3c0,0.2,0,0.4,0,0.6
+				c0,0.2,0,0.4,0,0.6c0,0.2,0,0.4,0,0.6c0,0.2,0,0.3,0,0.5c0,0.2,0,0.3,0,0.5c0,0.1,0,0.3,0,0.4c0,0.1,0,0.3,0,0.4h-18.4
+				c0-0.1,0-0.3,0-0.4c0-0.1,0-0.3,0-0.4c0-0.2,0-0.3,0-0.5c0-0.2,0-0.3,0-0.5c0-0.2,0-0.4,0-0.6c0-0.2,0-0.4,0-0.6
+				c0-0.2,0-0.4,0-0.6C-838.9-1246.1-838.9-1246.5-838.9-1246.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-820.5-1197.9c0,0.1,0,0.3,0,0.4c0,0.1,0,0.3,0,0.4c0,0.2,0,0.3,0,0.5
+				c0,0.2,0,0.3,0,0.5c0,0.2,0,0.4,0,0.6c0,0.2,0,0.4,0,0.6c0,0.6,0,1.2,0,1.9h-18.4c0-0.6,0-1.3,0-1.9c0-0.2,0-0.4,0-0.6
+				c0-0.2,0-0.4,0-0.6c0-0.2,0-0.3,0-0.5c0-0.2,0-0.3,0-0.5c0-0.1,0-0.3,0-0.4c0-0.1,0-0.3,0-0.4H-820.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-838.9-1252.6L-838.9-1252.6v0.1v0.2v0.2v0.3c0,0.1,0,0.3,0,0.4
+				c0,0.1,0,0.3,0,0.4c0,0.2,0,0.3,0,0.5c0,0.2,0,0.3,0,0.5c0,0.2,0,0.4,0,0.6c0,0.2,0,0.4,0,0.6c0,0.6,0,1.2,0,1.9h-11.3v-3v-2.1
+				v-0.6H-838.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-850.2-1246.9h11.3c0,0.4,0,0.8,0,1.3c0,0.2,0,0.4,0,0.6
+				c0,0.2,0,0.4,0,0.6c0,0.2,0,0.4,0,0.6c0,0.2,0,0.3,0,0.5c0,0.2,0,0.3,0,0.5c0,0.1,0,0.3,0,0.4c0,0.1,0,0.3,0,0.4v0.3v0.2v0.2v0.1
+				v0h-11.3V-1246.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-838.9-1198.8L-838.9-1198.8v0.1v0.2v0.2v0.3c0,0.1,0,0.3,0,0.4
+				c0,0.1,0,0.3,0,0.4c0,0.2,0,0.3,0,0.5c0,0.2,0,0.3,0,0.5c0,0.2,0,0.4,0,0.6c0,0.2,0,0.4,0,0.6c0,0.6,0,1.2,0,1.9h-11.3v-5.7
+				H-838.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-850.2-1193.1h11.3c0,0.4,0,0.8,0,1.3c0,0.2,0,0.4,0,0.6
+				c0,0.2,0,0.4,0,0.6c0,0.2,0,0.4,0,0.6c0,0.2,0,0.3,0,0.5c0,0.2,0,0.3,0,0.5c0,0.1,0,0.3,0,0.4c0,0.1,0,0.3,0,0.4v0.3v0.2v0.2v0.1
+				v0h-11.3v-0.6v-2.1V-1193.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1079.8-1180.3h21.3v2.8h-18.4L-1079.8-1180.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-925.4-1180.3h21.3l-2.8,2.8h-18.4V-1180.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-925.4-1262.5h18.4l2.8,2.8h-21.3V-1262.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1077-1262.5h18.4v2.8h-21.3L-1077-1262.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-904.1-1266.4h53.9v-0.8h-53.9V-1266.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-904.1-1173.6h53.9v0.8h-53.9V-1173.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-801.2-1193.1v5.7c1.9,0,3.4-1.5,3.4-3.4v-0.1v-0.2v-0.3v-0.4v-0.4
+				v-0.5v-0.5H-801.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-801.2-1252.6c1.9,0,3.4,1.5,3.4,3.4v2.3h-3.4V-1252.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-801.2-1246.9v5.7c1.9,0,3.4-1.5,3.4-3.4v-0.1v-0.2v-0.3v-0.4v-0.4
+				v-0.5v-0.5H-801.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-801.2-1198.8c1.9,0,3.4,1.5,3.4,3.4v2.3h-3.4V-1198.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-1122.4-1214.2v-11.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-1079.8-1259.7v79.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-1077-1262.5l-2.8,2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-1079.8-1180.3l2.8,2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-1079.8-1180.3l2.8,2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-1079.8-1259.7h21.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-1079.8-1180.3h21.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-1164.9-1214.3v-11.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-925.4-1262.5h18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-1058.6-1262.5h133.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-1077-1262.5h18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-1058.6-1177.5h133.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-1077-1177.5h18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-925.4-1177.5h18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-1058.6-1259.7h133.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-1058.6-1180.3h133.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-906.9-1262.5l2.8,2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-925.4-1259.7h21.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-925.4-1180.3h21.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-904.1-1180.3l-2.8,2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-904.1-1259.7v79.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-904.1-1266.4v6.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-904.1-1266.4v-0.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-904.1-1173.6v0.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-904.1-1180.3v6.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-850.2-1266.4v14.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-850.2-1252v2.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-850.2-1250v59.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-850.2-1190.1v2.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-850.2-1188v14.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-850.2-1266.4v-0.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-850.2-1173.6v0.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-838.9-1246.9v5.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-838.9-1252.6v5.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-838.9-1193.1v5.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-838.9-1198.8v5.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-820.5-1246.9v5.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-820.5-1252.6v5.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-820.5-1193.1v5.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-820.5-1198.8v5.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-797.8-1246.9v2.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-797.8-1244.7v-4.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-797.8-1249.2v2.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-797.8-1193.1v2.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-797.8-1190.8v-4.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-797.8-1195.4v2.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-1119.7-1228.7l39.9-2.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-1119.7-1211.3l39.9,2.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-1119.7-1211.3c-1.5-0.1-2.6-1.3-2.6-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-1119.7-1228.7c-1.5,0.1-2.6,1.3-2.6,2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-1164.9-1214.3h42.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-1164.9-1225.7h42.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-904.1-1267.2h53.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-904.1-1172.9h53.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-838.9-1252.6h-11.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-838.9-1241.3h-11.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-838.9-1198.8h-11.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-838.9-1187.4h-11.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-820.5-1251.8h-18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-820.5-1242.1h-18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-820.5-1197.9h-18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-820.5-1188.3h-18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-801.2-1252.6h-19.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-801.2-1241.3h-19.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-801.2-1198.8h-19.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-801.2-1187.4h-19.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-801.2-1241.3c1.9,0,3.4-1.5,3.4-3.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-801.2-1252.6c1.9,0,3.4,1.5,3.4,3.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-801.2-1187.4c1.9,0,3.4-1.5,3.4-3.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-801.2-1198.8c1.9,0,3.4,1.5,3.4,3.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-1119.7-1211.3v-17.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-1058.6-1259.7v79.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-1058.6-1262.5v2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-1058.6-1180.3v2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-925.4-1259.7v79.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-925.4-1262.5v2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-925.4-1180.3v2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-904.1-1266.4h53.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-904.1-1252h53.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-904.1-1250h53.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-904.1-1190.1h53.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-904.1-1188h53.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-904.1-1173.6h53.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-801.2-1246.9v5.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-801.2-1252.6v5.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-801.2-1193.1v5.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-801.2-1198.8v5.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-850.2-1246.9h11.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-850.2-1193.1h11.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-838.9-1246.9h18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-838.9-1193.1h18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-820.5-1246.9h19.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-820.5-1193.1h19.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-801.2-1246.9h3.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st13" d="M-801.2-1193.1h3.4"/>
+		</g>
+		<g transform="matrix(0,-1,1,0,2055.8,1767.86)">
+			<text transform="matrix(1 0 0 1 1267.8676 -1453.2112)" class="st4 st14">33,28</text>
+		</g>
+		<g transform="matrix(1,0,0,1,1369.51,1702.66)">
+			<path vector-effect="none" class="st15" d="M-763.4-1267.2v94.3 M-850.2-1172.9h89.8 M-850.2-1267.2h89.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2138.15,1869.05)">
+			<path vector-effect="none" class="st16" d="M-1532.1-1339.2l2.4-14.2h-4.7L-1532.1-1339.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2138.15,1536.27)">
+			<path vector-effect="none" class="st16" d="M-1532.1-1100.8l-2.4,14.2h4.7L-1532.1-1100.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1630.5-768.9l3.9,4.2c1,1.1,1,2.8,0,3.8l-3.9,4.2v95.9v18.4l-2.8,2.8
+				h-79.4l-2.8-2.8v-18.4v-95.9l-3.9-4.2c-1-1.1-1-2.8,0-3.8l3.9-4.2v-25v-18.4l2.8-2.8h79.4l2.8,2.8v18.4V-768.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1712.7-660.7h79.4v-133.2h-79.4V-660.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1712.7-793.9h79.4v-21.3h-79.4V-793.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1712.7-639.5h79.4v-21.3h-79.4V-639.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1661.6-727.3c0,6.3-5.1,11.3-11.3,11.3c-6.3,0-11.3-5.1-11.3-11.3
+				s5.1-11.3,11.3-11.3C-1666.7-738.7-1661.6-733.6-1661.6-727.3L-1673-716v-2.7l8.7-8.7c0,4.8-3.9,8.7-8.7,8.7
+				c-4.8,0-8.7-3.9-8.7-8.7s3.9-8.7,8.7-8.7c4.8,0,8.7,3.9,8.7,8.7l-8.7,8.7v-2.8l5.9-5.9c0,3.2-2.6,5.9-5.9,5.9s-5.9-2.6-5.9-5.9
+				s2.6-5.9,5.9-5.9s5.9,2.6,5.9,5.9l-5.9,5.9v2.8v2.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1661.6-727.3c0,6.3-5.1,11.3-11.3,11.3c-6.3,0-11.3-5.1-11.3-11.3
+				s5.1-11.3,11.3-11.3C-1666.7-738.7-1661.6-733.6-1661.6-727.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1633.3-660.7h2.8v-95.9v-12.3v-25h-2.8V-660.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1715.5-660.7h2.8v-133.2h-2.8v25v12.3V-660.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1664.3-727.3c0,4.8-3.9,8.7-8.7,8.7c-4.8,0-8.7-3.9-8.7-8.7
+				s3.9-8.7,8.7-8.7C-1668.2-736-1664.3-732.1-1664.3-727.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1667.1-727.3c0,3.2-2.6,5.9-5.9,5.9s-5.9-2.6-5.9-5.9
+				s2.6-5.9,5.9-5.9S-1667.1-730.6-1667.1-727.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1667.3-727.3c0,3.1-2.5,5.7-5.7,5.7c-3.1,0-5.7-2.5-5.7-5.7
+				s2.5-5.7,5.7-5.7C-1669.9-733-1667.3-730.5-1667.3-727.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1633.3-793.9h2.8v-18.4l-2.8-2.8V-793.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1633.3-639.5l2.8-2.8v-18.4h-2.8V-639.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1715.5-793.9h2.8v-21.3l-2.8,2.8V-793.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1715.5-642.3l2.8,2.8v-21.3h-2.8V-642.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1630.5-756.6v-12.3l3.9,4.2c1,1.1,1,2.8,0,3.8L-1630.5-756.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-1715.5-756.6v-12.3l-3.9,4.2c-1,1.1-1,2.8,0,3.8L-1715.5-756.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1661.6-727.3c0,6.3-5.1,11.3-11.3,11.3c-6.3,0-11.3-5.1-11.3-11.3
+				s5.1-11.3,11.3-11.3C-1666.7-738.7-1661.6-733.6-1661.6-727.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1712.7-660.7v-133.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1633.3-660.7v-133.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1712.7-639.5h79.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1712.7-639.5v-21.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1633.3-639.5v-21.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1715.5-660.7v-133.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1630.5-660.7v-133.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1712.7-815.2h79.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1712.7-793.9v-21.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1633.3-793.9v-21.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1667.3-727.3c0,3.1-2.5,5.7-5.7,5.7c-3.1,0-5.7-2.5-5.7-5.7s2.5-5.7,5.7-5.7
+				C-1669.9-733-1667.3-730.5-1667.3-727.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1715.5-642.3l2.8,2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1715.5-642.3v-18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1633.3-639.5l2.8-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1630.5-642.3v-18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1715.5-793.9v-18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1715.5-812.4l2.8-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1630.5-793.9v-18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1633.3-815.2l2.8,2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1712.7-815.2h79.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1719.4-764.7l3.9-4.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1719.4-764.7c-1,1.1-1,2.8,0,3.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1715.5-756.6l-3.9-4.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1630.5-756.6l3.9-4.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1626.6-764.7c1,1.1,1,2.8,0,3.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1630.5-768.9l3.9,4.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1664.3-727.3c0,4.8-3.9,8.7-8.7,8.7c-4.8,0-8.7-3.9-8.7-8.7s3.9-8.7,8.7-8.7
+				C-1668.2-736-1664.3-732.1-1664.3-727.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1667.1-727.3c0,3.2-2.6,5.9-5.9,5.9s-5.9-2.6-5.9-5.9s2.6-5.9,5.9-5.9
+				S-1667.1-730.6-1667.1-727.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1712.7-660.7h79.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1712.7-793.9h79.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1715.5-660.7h2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1715.5-793.9h2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1633.3-660.7h2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1633.3-793.9h2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1673-716v-2.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,2334.82,1015.07)">
+			<path vector-effect="none" class="st13" d="M-1673-718.7v-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-268.5-764.7c1,1.1,1,2.8,0,3.8l-3.9,4.2v95.9v18.4l-2.8,2.8h-79.4
+				l-2.8-2.8v-18.4v-95.9l-3.9-4.2c-1-1.1-1-2.8,0-3.8l3.9-4.2v-25v-18.4l2.8-2.8h79.4l2.8,2.8v18.4v25L-268.5-764.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-282.9-745.3l7.7-8.3v92.8h-79.4v-92.8l7.7,8.3
+				c0.5,0.6,1.3,0.9,2.1,0.9h59.9C-284.2-744.3-283.5-744.7-282.9-745.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-268.5-764.7c1,1.1,1,2.8,0,3.8l-3.9,4.2l-2.8,3.1l-7.7,8.3
+				c-0.5,0.6-1.3,0.9-2.1,0.9h-59.9c-0.8,0-1.5-0.3-2.1-0.9l-7.7-8.3l-2.8-3.1l-3.9-4.2c-1-1.1-1-2.8,0-3.8l3.9-4.2l2.8-3.1l7.7-8.3
+				c0.5-0.6,1.3-0.9,2.1-0.9h59.9c0.8,0,1.5,0.3,2.1,0.9l7.7,8.3l2.8,3.1L-268.5-764.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-275.3-815.2v21.3h-79.4v-21.3H-275.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-275.3-660.7v21.3h-79.4v-21.3H-275.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-275.3-793.9v22l-7.7-8.3c-0.5-0.6-1.3-0.9-2.1-0.9h-59.9
+				c-0.8,0-1.5,0.3-2.1,0.9l-7.7,8.3v-22H-275.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-354.6-753.6v92.8h-2.8v-95.9L-354.6-753.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-275.3-753.6l2.8-3.1v95.9h-2.8V-753.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-336.2-762.8c0,3.1-2.5,5.7-5.7,5.7c-3.1,0-5.7-2.5-5.7-5.7
+				c0-3.1,2.5-5.7,5.7-5.7C-338.7-768.4-336.2-765.9-336.2-762.8l-5.7-5.7v3.4l2.3,2.3c0,1.3-1,2.3-2.3,2.3c-1.3,0-2.3-1-2.3-2.3
+				c0-1.3,1-2.3,2.3-2.3c1.3,0,2.3,1,2.3,2.3l-2.3-2.3v-3.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-282.3-762.8c0,3.1-2.5,5.7-5.7,5.7c-3.1,0-5.7-2.5-5.7-5.7
+				c0-3.1,2.5-5.7,5.7-5.7C-284.9-768.4-282.3-765.9-282.3-762.8l-5.7-5.7v3.4l2.3,2.3c0,1.3-1,2.3-2.3,2.3c-1.3,0-2.3-1-2.3-2.3
+				c0-1.3,1-2.3,2.3-2.3c1.3,0,2.3,1,2.3,2.3l-2.3-2.3v-3.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-336.2-762.8c0,3.1-2.5,5.7-5.7,5.7c-3.1,0-5.7-2.5-5.7-5.7
+				c0-3.1,2.5-5.7,5.7-5.7C-338.7-768.4-336.2-765.9-336.2-762.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-282.3-762.8c0,3.1-2.5,5.7-5.7,5.7c-3.1,0-5.7-2.5-5.7-5.7
+				c0-3.1,2.5-5.7,5.7-5.7C-284.9-768.4-282.3-765.9-282.3-762.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-272.4-793.9v25l-2.8-3.1v-22H-272.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-354.6-793.9v22l-2.8,3.1v-25H-354.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-354.6-660.7v21.3l-2.8-2.8v-18.4H-354.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-272.4-660.7v18.4l-2.8,2.8v-21.3H-272.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-272.4-812.4v18.4h-2.8v-21.3L-272.4-812.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-354.6-815.2v21.3h-2.8v-18.4L-354.6-815.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-285.7-762.8c0,1.3-1,2.3-2.3,2.3c-1.3,0-2.3-1-2.3-2.3
+				c0-1.3,1-2.3,2.3-2.3C-286.8-765-285.7-764-285.7-762.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-339.6-762.8c0,1.3-1,2.3-2.3,2.3c-1.3,0-2.3-1-2.3-2.3
+				c0-1.3,1-2.3,2.3-2.3C-340.6-765-339.6-764-339.6-762.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-275.3-639.5h-79.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-272.4-660.7v18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-272.4-793.9v25"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-272.4-756.6v95.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-272.4-812.4v18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-357.5-812.4v18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-357.5-793.9v25"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-357.5-756.6v95.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-357.5-660.7v18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-275.3-815.2h-79.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-275.3-660.7v21.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-354.6-660.7v21.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-272.4-642.3l-2.8,2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-354.6-639.5l-2.8-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-275.3-793.9v22"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-275.3-753.6v92.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-272.4-812.4l-2.8-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-275.3-815.2v21.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-354.6-815.2l-2.8,2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-354.6-815.2v21.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-354.6-793.9v22"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-354.6-753.6v92.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-347-745.3l-14.4-15.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-347-745.3c0.5,0.6,1.3,0.9,2.1,0.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-344.9-744.3h59.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-282.9-745.3c-0.5,0.6-1.3,0.9-2.1,0.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-282.9-745.3l14.4-15.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-268.5-764.7l-14.4-15.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-282.9-780.3c-0.5-0.6-1.3-0.9-2.1-0.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-285-781.2h-59.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-344.9-781.2c-0.8,0-1.5,0.3-2.1,0.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-347-780.3l-14.4,15.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-268.5-764.7c1,1.1,1,2.8,0,3.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-361.4-764.7c-1,1.1-1,2.8,0,3.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-282.3-762.8c0,3.1-2.5,5.7-5.7,5.7c-3.1,0-5.7-2.5-5.7-5.7c0-3.1,2.5-5.7,5.7-5.7
+				C-284.9-768.4-282.3-765.9-282.3-762.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-336.2-762.8c0,3.1-2.5,5.7-5.7,5.7c-3.1,0-5.7-2.5-5.7-5.7c0-3.1,2.5-5.7,5.7-5.7
+				C-338.7-768.4-336.2-765.9-336.2-762.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-275.3-660.7h-79.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-272.4-660.7h-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-272.4-793.9h-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-354.6-793.9h-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-354.6-660.7h-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-275.3-793.9h-79.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-282.3-762.8c0,3.1-2.5,5.7-5.7,5.7c-3.1,0-5.7-2.5-5.7-5.7c0-3.1,2.5-5.7,5.7-5.7
+				C-284.9-768.4-282.3-765.9-282.3-762.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-336.2-762.8c0,3.1-2.5,5.7-5.7,5.7c-3.1,0-5.7-2.5-5.7-5.7c0-3.1,2.5-5.7,5.7-5.7
+				C-338.7-768.4-336.2-765.9-336.2-762.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-285.7-762.8c0,1.3-1,2.3-2.3,2.3c-1.3,0-2.3-1-2.3-2.3c0-1.3,1-2.3,2.3-2.3
+				C-286.8-765-285.7-764-285.7-762.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-339.6-762.8c0,1.3-1,2.3-2.3,2.3c-1.3,0-2.3-1-2.3-2.3c0-1.3,1-2.3,2.3-2.3
+				C-340.6-765-339.6-764-339.6-762.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-288-768.4v3.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st13" d="M-341.9-768.4v3.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,431.676,1399.24)">
+			<text transform="matrix(1 0 0 1 -308.177 -982.7623)" class="st4 st14">30</text>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st15" d="M-357.5-595.7h85 M-272.4-642.3v49.5 M-357.5-642.3v49.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,589.541,1479.34)">
+			<path vector-effect="none" class="st16" d="M-422.4-1060l-14.2-2.4v4.7L-422.4-1060"/>
+		</g>
+		<g transform="matrix(1,0,0,1,289.541,1479.34)">
+			<path vector-effect="none" class="st16" d="M-207.5-1060l14.2,2.4v-4.7L-207.5-1060"/>
+		</g>
+		<g transform="matrix(0,-1,1,0,111.642,1059.38)">
+			<text transform="matrix(1 0 0 1 760.2167 -60.1527)" class="st4 st14">62</text>
+		</g>
+		<g transform="matrix(1,0,0,1,439.541,1015.07)">
+			<path vector-effect="none" class="st15" d="M-385.2-815.2v175.7 M-354.6-639.5h-33.5 M-354.6-815.2h-33.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,191.742,1325.07)">
+			<path vector-effect="none" class="st16" d="M-137.4-949.5l2.4-14.2h-4.7L-137.4-949.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,191.742,705.066)">
+			<path vector-effect="none" class="st16" d="M-137.4-505.2l-2.4,14.2h4.7L-137.4-505.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-2173.8-733v11.3l-42.5,0.1v-0.1v0v0.1c0,1.5-1.2,2.7-2.6,2.8
+				l-39.9,2.7v55.3c0,11.7-9.5,21.3-21.3,21.3h-133.2c-11.7,0-21.3-9.5-21.3-21.3v-83.6h-53.9v-0.9v-11.8h-11.3v-0.1v-0.4v-0.3
+				h-18.4v0.3v0.4v0.1h-19.3c-1.9,0-3.4-1.5-3.4-3.4v-4.5c0-1.9,1.5-3.4,3.4-3.4h19.3v0.1v0.4v0.3h18.4v-0.3v-0.4v-0.1h11.3v-11.8
+				v-0.9h53.9v-12.8c0-11.7,9.5-21.3,21.3-21.3h133.2c11.7,0,21.3,9.5,21.3,21.3v55.3l39.9,2.7c1.5,0.1,2.6,1.3,2.6,2.8v0.1v0v-0.1
+				L-2173.8-733"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-2261.7-660.7v-133.2c0-10.2-8.2-18.4-18.4-18.4h-133.2
+				c-10.2,0-18.4,8.2-18.4,18.4v133.2c0,10.2,8.2,18.4,18.4,18.4h133.2C-2270-642.3-2261.7-650.5-2261.7-660.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-2434.6-764.7v-7.3v-8.3h-53.9v11.8v3.7H-2434.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-2434.6-753.6v8.3h-53.9v-11.8v-3.7h53.9V-753.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-2219-736v17.4l-39.9,2.7v-22.7L-2219-736"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-2173.8-733v11.3h-42.5v-0.4v-0.7v-0.9v-1.1v-1.2v-1.3v-1.3v-1.2v-1.1
+				v-0.9v-0.7v-0.4H-2173.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-2431.8-793.9v133.2h-2.8v-83.6v-0.9v-8.3v-7.3v-3.8v-7.3v-8.3v-0.9
+				v-12.8H-2431.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-2261.7-660.7h2.8V-716v-22.7v-55.3h-2.8V-660.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-2280.1-812.4v-2.8h-133.2v2.8H-2280.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-2413.4-642.3h133.2v2.8h-133.2V-642.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-2537.5-757.1h19.3v-0.1v-0.4v-0.3v-0.4v-0.9v-1.1v-1.2v-1.3v-1.3
+				v-1.2v-1.1v-0.9v-0.4v-0.3v-0.4v-0.1h-19.3V-757.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-2434.6-764.7v3.8h-53.9v-3.8H-2434.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-2518.3-757.9h18.4v-0.4v-0.9v-1.1v-1.2v-1.3v-1.3v-1.2v-1.1v-0.9
+				v-0.4h-18.4v0.4v0.9v1.1v1.2v1.3v1.3v1.2v1.1v0.9V-757.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-2499.8-757.1h11.3v-3.7v-3.8v-3.7h-11.3v0.1v0.4v0.3v0.4v0.9v1.1v1.2
+				v1.3v1.3v1.2v1.1v0.9v0.4v0.3v0.4V-757.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-2413.4-812.4v-2.8c-11.7,0-21.3,9.5-21.3,21.3h2.8
+				C-2431.8-804.1-2423.6-812.4-2413.4-812.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-2280.1-642.3c10.2,0,18.4-8.2,18.4-18.4h2.8
+				c0,11.7-9.5,21.3-21.3,21.3V-642.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-2261.7-793.9h2.8c0-11.7-9.5-21.3-21.3-21.3v2.8
+				C-2270-812.4-2261.7-804.1-2261.7-793.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-2431.8-660.7c0,10.2,8.2,18.4,18.4,18.4v2.8
+				c-11.7,0-21.3-9.5-21.3-21.3H-2431.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-2434.6-745.3v0.9h-53.9v-0.9H-2434.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-2434.6-781.2v0.9h-53.9v-0.9H-2434.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-2216.4-733.2v0.1v0v0.4v0.7v0.9v1.1v1.2v1.3v1.3v1.2v1.1v0.9v0.7v0.4
+				v0v0.1c0,1.5-1.2,2.7-2.6,2.8V-736C-2217.5-735.9-2216.4-734.7-2216.4-733.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-2537.5-757.1v-11.3c-1.9,0-3.4,1.5-3.4,3.4v4.5
+				C-2540.9-758.6-2539.4-757.1-2537.5-757.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2258.9-716l39.9-2.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2219-718.7c1.5-0.1,2.6-1.3,2.6-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2216.4-733.2v11.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2258.9-660.7v-133.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2280.1-639.5c11.7,0,21.3-9.5,21.3-21.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2261.7-660.7v-133.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2258.9-793.9c0-11.7-9.5-21.3-21.3-21.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2216.4-721.7h42.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2173.8-733v11.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2413.4-639.5h133.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2280.1-642.3c10.2,0,18.4-8.2,18.4-18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2431.8-660.7c0,10.2,8.2,18.4,18.4,18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2431.8-793.9v133.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2413.4-642.3h133.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2413.4-812.4c-10.2,0-18.4,8.2-18.4,18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2280.1-812.4h-133.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2261.7-793.9c0-10.2-8.2-18.4-18.4-18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2280.1-815.2h-133.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2434.6-660.7c0,11.7,9.5,21.3,21.3,21.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2434.6-793.9v22"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2434.6-753.6v92.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2413.4-815.2c-11.7,0-21.3,9.5-21.3,21.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2434.6-764.7v-7.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2434.6-764.7v3.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2434.6-753.6v-7.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2434.6-744.3h-53.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2488.5-745.3v0.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2488.5-745.3v-15.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2488.5-764.7v-15.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2434.6-781.2h-53.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2488.5-780.3v-0.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2488.5-764.7v3.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2488.5-768.4h-11.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2499.8-757.1v-11.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2499.8-767.6h-18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2518.3-757.1v-11.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2518.3-768.4h-19.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2537.5-768.4c-1.9,0-3.4,1.5-3.4,3.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2540.9-765v4.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2540.9-760.5v-4.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2540.9-765v4.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2540.9-760.5v-4.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2219-736l-39.9-2.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2219-736c1.5,0.1,2.6,1.3,2.6,2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2173.8-733h-42.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2499.8-757.1h11.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2518.3-757.9h18.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2537.5-757.1h19.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2537.5-757.1c-1.9,0-3.4-1.5-3.4-3.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2537.5-757.1c-1.9,0-3.4-1.5-3.4-3.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2219-736v17.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2261.7-660.7h2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2261.7-793.9h2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2280.1-642.3v2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2280.1-812.4v-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2413.4-642.3v2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2431.8-660.7h-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2431.8-793.9h-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2413.4-812.4v-2.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2434.6-745.3h-53.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2434.6-760.8h-53.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2434.6-764.7h-53.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2434.6-780.3h-53.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,3290.03,1015.07)">
+			<path vector-effect="none" class="st13" d="M-2537.5-757.1v-11.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-328-1634.6c0.6,0.4,1.6-0.2,2.3-1.3c0.6-1.1,0.6-2.3,0-2.6
+				 M-325.8-1638.5c-0.6-0.4-1.6,0.2-2.3,1.3c-0.6,1.1-0.6,2.3,0,2.6l1.1-3.8c0-1.5-1.1-3.4-2.4-4.2l-13.6-7.9
+				c0.3-0.2,0.6-0.3,0.9-0.4l-10-5.8c-0.2-0.7-0.5-1.3-1.1-1.6l-0.3-0.2l3.2-5.9c0.7-1.3,0.7-2.7,0-3.1l-10.2-6.9l0,0c0,0,0,0-0.1,0
+				l0,0l-32.6-18.8v-17.4l-56.1,32.4c0-9.6-6.7-21.2-15-26l56.1-32.4c8.3,4.8,15,16.5,15,26v-2.3v2.3c0-9.6-6.7-21.2-15-26l2,1.2
+				c7.2,4.2,13,14.3,13,22.6c0-8.3-5.8-18.4-13-22.6l-2-1.2l-94.2-54.4c-4-2.3-7.8-2.7-10.6-1.1l-56.1,32.4
+				c-2.8,1.6-4.4,5.1-4.4,9.7v2.3c0-8.3,5.8-11.7,13-7.5l94.2,54.4c7.2,4.2,13,14.3,13,22.6v25.3l-0.7,1.4c-0.7,1.3-0.7,2.7,0,3.1
+				l0.7,0.5v78.5c0,8.3-5.8,11.7-13,7.5l-94.2-54.4c-7.2-4.2-13-14.3-13-22.6v-78.6v-17.8v-0.6v-11.8v11.8c-0.1,0-0.2,0.1-0.2,0.1
+				c-0.4,0.1-0.7,0.3-1.1,0.5l-27.9-16.1c-1.6-0.9-4.1,0.6-5.7,3.3c-1.6,2.7-1.6,5.6,0,6.5l27.9,16.1c0,0.8,0.1,1.5,0.4,2.2
+				c0.4,1.1,1,2,1.9,2.6l4.7,3.2v78.6c0,8.3,5.8,18.4,13,22.6l94.2,54.4l2,1.2l-2-1.2c7.2,4.2,13,0.8,13-7.5h4
+				c0,4.6-1.6,8.1-4.4,9.7c-2.8,1.6-6.6,1.2-10.6-1.1c4,2.3,7.8,2.7,10.6,1.1l56.1-32.4c2.8-1.6,4.4-5.1,4.4-9.7v-23.4l8.1,4.7
+				c0.2,0.7,0.5,1.3,1.1,1.6l13.6,7.9c0.9,0.5,2,0.7,3.1,0.5c0.5-0.1,0.9-0.3,1.3-0.5c0.5-0.3,1-0.6,1.4-1c0.9-0.9,1.6-2,1.9-3.2
+				c0.1-0.6,0.2-1.1,0.2-1.7c0-0.5-0.1-1-0.2-1.4c-0.3-1-1-1.9-1.9-2.4c-0.8-0.4-1.8-0.3-2.8,0.3c-1.6,0.9-3.1,2.9-3.7,5
+				c-0.6,2.1-0.3,3.9,0.9,4.5c0.9,0.5,2,0.7,3.1,0.5c0.5-0.1,0.9-0.3,1.3-0.5c0.5-0.3,1-0.6,1.4-1c0.9-0.9,1.6-2,1.9-3.2
+				c0.1-0.6,0.2-1.1,0.2-1.7c0-0.5-0.1-1-0.2-1.4c-0.3-1-1-1.9-1.9-2.4l-13.6-7.9c-0.5-0.3-1.2-0.3-1.9-0.1
+				c-0.3,0.1-0.6,0.2-0.9,0.4l13.6,7.9c1.3,0.8,2.4,2.6,2.4,4.2l-1.1,3.8c0.6,0.4,1.6-0.2,2.3-1.3c0.6-1.1,0.6-2.3,0-2.6
+				 M-363.9-1616.5c-0.6-0.4-1.6,0.2-2.3,1.3c-0.6,1.1-0.6,2.3,0,2.6l1.1-3.8c0-1.5-1.1-3.4-2.4-4.2c1.1-0.6,2.1-0.7,2.8-0.3
+				l-13.6-7.9c-0.5-0.3-1.2-0.3-1.9-0.1l-4.1-2.4l22.4-12.9c0.6-0.3,1.1-0.9,1.5-1.6l1.5-2.7l0.1,0c0.5,0.3,1.2,0.3,1.9,0.1l10,5.8
+				c0.2,0.7,0.5,1.3,1.1,1.6l13.6,7.9c0.9,0.5,2,0.7,3.1,0.5c0.5-0.1,0.9-0.3,1.3-0.5c0.5-0.3,1-0.6,1.4-1c0.9-0.9,1.6-2,1.9-3.2
+				c0.1-0.6,0.2-1.1,0.2-1.7c0-0.5-0.1-1-0.2-1.4c-0.3-1-1-1.9-1.9-2.4l-13.6-7.9c-0.5-0.3-1.2-0.3-1.9-0.1c0.7-0.2,1.4-0.2,1.9,0.1
+				l13.6,7.9c-0.8-0.4-1.8-0.3-2.8,0.3c-1.6,0.9-3.1,2.9-3.7,5c-0.6,2.1-0.3,3.9,0.9,4.5c0.9,0.5,2,0.7,3.1,0.5
+				c0.5-0.1,0.9-0.3,1.3-0.5c0.5-0.3,1-0.6,1.4-1c0.9-0.9,1.6-2,1.9-3.2c0.1-0.6,0.2-1.1,0.2-1.7c0-0.5-0.1-1-0.2-1.4
+				c-0.3-1-1-1.9-1.9-2.4c-0.8-0.4-1.8-0.3-2.8,0.3c1.3,0.8,2.4,2.6,2.4,4.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-502.3-1791l94.2,54.4l-56.1,32.4l-94.2-54.4L-502.3-1791"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-405.6-1619.6c0.4,0.2,0.9,0.2,1.4-0.1l10.3-6l0.8,0.5v23.4
+				l-56.1,32.4v-75.8l5.4,3.7l0,0c0,0,0,0,0.1,0l0,0L-405.6-1619.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-399.9-1696.2l38.1,22l-42.3,24.4l-38.1-22L-399.9-1696.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-358.9-1648.5l-1.5,2.7c-0.4,0.7-0.9,1.3-1.5,1.6l-22.4,12.9l-5.9-3.4
+				l-1.5-0.9c-0.6-0.4-1.5-0.3-2.4,0.2c-1.4,0.8-2.6,2.5-3.1,4.2c-0.5,1.8-0.2,3.3,0.7,3.9l1.5,0.9c-0.7,0.2-1.4,0.2-1.9-0.1l-8-4.6
+				c-1.1-0.7-1.5-2.5-0.9-4.5c0.6-2.1,2.1-4.1,3.7-5l8,4.6c1.1-0.6,2.1-0.7,2.8-0.3l-8-4.6c-0.8-0.4-1.8-0.3-2.8,0.3
+				c1.1-0.6,2.1-0.7,2.8-0.3l8,4.6c0.5,0.3,0.9,0.9,1.1,1.6c-0.2-0.7-0.5-1.3-1.1-1.6c-0.8-0.4-1.8-0.3-2.8,0.3
+				c-1.6,0.9-3.1,2.9-3.7,5s-0.3,3.9,0.9,4.5c0.5,0.3,1.2,0.3,1.9,0.1l1.1,0.6l-10.3,6c-0.5,0.3-1,0.4-1.4,0.1c0,0,0,0-0.1,0l0,0
+				l-10.2-6.9c-0.7-0.5-0.7-1.8,0-3.1l10.2-18.6c0.4-0.7,0.9-1.3,1.5-1.6l42.3-24.4c0.5-0.3,1-0.4,1.4-0.2c0,0,0,0,0.1,0
+				c0,0,0,0,0.1,0l-0.1,0l10.2,6.9c0.7,0.5,0.7,1.8,0,3.1l-3.2,5.9l-7.7-4.4c-0.8-0.4-1.8-0.3-2.8,0.3c-1.6,0.9-3.1,2.9-3.7,5
+				c-0.6,2.1-0.3,3.9,0.9,4.5L-358.9-1648.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-443.8-1670.2l38.1,22l-10.2,18.6l-38.1-22l0.7-1.4l4-7.3
+				L-443.8-1670.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-360.5-1674.4l-38-22l0,0c0,0,0,0-0.1,0c-0.4-0.2-0.9-0.2-1.4,0.1
+				l-42.3,24.4c-0.6,0.3-1.1,0.9-1.5,1.6l-5.4,9.9v-17.9l56.1-32.4v17.4L-360.5-1674.4L-360.5-1674.4
+				C-360.5-1674.4-360.5-1674.4-360.5-1674.4L-360.5-1674.4l-38-22l0,0c0,0,0,0-0.1,0l0,0l5.4,3.1l-5.4-3.1l0,0
+				c-0.4-0.2-0.9-0.2-1.4,0.1l38.1,22C-361.4-1674.5-360.9-1674.6-360.5-1674.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-558.4-1758.6l94.2,54.4l-2,3.5l-94.2-54.4L-558.4-1758.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-393.1-1601.8c0,4.6-1.6,8.1-4.4,9.7l-56.1,32.4
+				c2.8-1.6,4.4-5.1,4.4-9.7L-393.1-1601.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-512.9-1792.1c2.8-1.6,6.6-1.2,10.6,1.1l-56.1,32.4
+				c-4-2.3-7.8-2.7-10.6-1.1L-512.9-1792.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-608.4-1741.6l27.9,16.1c0-1,0.2-2.1,0.5-3.2c0.5-1.6,1.5-3.3,2.6-4.5
+				c0.8-0.9,1.6-1.6,2.6-2.1l-27.9-16.1c-1.6-0.9-4.1,0.6-5.7,3.3C-609.9-1745.4-609.9-1742.5-608.4-1741.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-449.2-1645.2v75.8h-4v-78.5L-449.2-1645.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-381-1628.4l13.6,7.9c-1.6,0.9-3.1,2.9-3.7,5
+				c-0.6,2.1-0.3,3.9,0.9,4.5l-13.6-7.9c-0.5-0.3-0.9-0.9-1.1-1.6c-0.3-1.1,0-2.6,0.6-4c0.6-1.4,1.6-2.7,2.7-3.6
+				C-381.4-1628.2-381.2-1628.3-381-1628.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-342.9-1650.4l13.6,7.9c-1.6,0.9-3.1,2.9-3.7,5
+				c-0.6,2.1-0.3,3.9,0.9,4.5l-13.6-7.9c-0.5-0.3-0.9-0.9-1.1-1.6c-0.3-1.1,0-2.6,0.6-4s1.6-2.7,2.7-3.6
+				C-343.3-1650.2-343.1-1650.3-342.9-1650.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-453.9-1651.6l38.1,22c-0.7,1.3-0.7,2.7,0,3.1l-38.1-22
+				C-454.6-1648.9-454.6-1650.3-453.9-1651.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-394.1-1635.3l12.5,7.2c-1.1,0.8-2.1,2.1-2.7,3.6
+				c-0.6,1.4-0.9,2.9-0.6,4l-8.1-4.7l-0.8-0.5l-1.1-0.6l-1.5-0.9c-1-0.6-1.3-2.1-0.7-3.9C-396.7-1632.8-395.4-1634.5-394.1-1635.3"
+				/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-356-1657.3l12.5,7.2c-1.1,0.8-2.1,2.1-2.7,3.6s-0.9,2.9-0.6,4
+				l-10-5.8l-1.5-0.9c-1-0.6-1.3-2.1-0.7-3.9C-358.6-1654.8-357.3-1656.5-356-1657.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-464.2-1704.2c8.3,4.8,15,16.5,15,26h-4c0-8.3-5.8-18.4-13-22.6
+				L-464.2-1704.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-442.3-1671.8l38.1,22c-0.6,0.3-1.1,0.9-1.5,1.6l-38.1-22
+				C-443.4-1670.9-442.8-1671.4-442.3-1671.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-402.1-1640.6l8,4.6c-1.6,0.9-3.1,2.9-3.7,5s-0.3,3.9,0.9,4.5l-8-4.6
+				c-1.1-0.7-1.5-2.5-0.9-4.5C-405.2-1637.7-403.7-1639.7-402.1-1640.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-364-1662.6l8,4.6c-1.6,0.9-3.1,2.9-3.7,5c-0.6,2.1-0.3,3.9,0.9,4.5
+				l0,0l-8-4.6c-1.1-0.7-1.5-2.5-0.9-4.5C-367.1-1659.7-365.6-1661.6-364-1662.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-449.2-1678.2v17.9l-4,7.3v-25.3H-449.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-578.1-1720.7l4.7,3.2v-17.8c-2.5,1.4-4.7,4.3-5.7,7.5
+				C-580.2-1724.6-579.8-1721.8-578.1-1720.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-573.4-1750c0-4.6,1.6-8.1,4.4-9.7c2.8-1.6,6.6-1.2,10.6,1.1l-2,3.5
+				c-7.2-4.2-13-0.8-13,7.5V-1750"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-405.7-1619.6l-10.2-6.9l-38.1-22l0.7,0.5l4,2.7l5.5,3.7
+				L-405.7-1619.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-380.1-1628.8c-0.3,0.1-0.6,0.2-0.9,0.4c-0.2,0.1-0.4,0.2-0.6,0.4
+				l-12.5-7.2c0.9-0.5,1.8-0.6,2.4-0.2l1.5,0.9l5.9,3.4L-380.1-1628.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-342-1650.8c-0.3,0.1-0.6,0.2-0.9,0.4c-0.2,0.1-0.4,0.2-0.6,0.4
+				l-12.5-7.2c0.9-0.5,1.8-0.6,2.4-0.2l1.5,0.9L-342-1650.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-353.1-1658.2l-0.3-0.2l-7.7-4.4c-0.8-0.4-1.8-0.3-2.8,0.3l8,4.6
+				C-354.9-1658.6-353.9-1658.7-353.1-1658.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-578.1-1720.7c-1.7-1.1-2.1-3.9-1-7.1c1-3.2,3.3-6.1,5.7-7.5v-0.6
+				c-0.1,0-0.2,0.1-0.2,0.1c-0.4,0.1-0.7,0.3-1.1,0.5c-0.9,0.5-1.8,1.2-2.6,2.1c-1.2,1.3-2.1,2.9-2.6,4.5c-0.3,1.1-0.5,2.2-0.5,3.2
+				c0,0.8,0.1,1.5,0.4,2.2C-579.7-1722.2-579-1721.3-578.1-1720.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-352.1-1656.6c-0.2-0.7-0.5-1.3-1.1-1.6c-0.8-0.4-1.8-0.3-2.8,0.3
+				c-1.6,0.9-3.1,2.9-3.7,5c-0.6,2.1-0.3,3.9,0.9,4.5c0.5,0.3,1.2,0.3,1.9,0.1l-1.5-0.9c-1-0.6-1.3-2.1-0.7-3.9
+				c0.5-1.8,1.8-3.5,3.1-4.2c0.9-0.5,1.8-0.6,2.4-0.2L-352.1-1656.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-366.1-1612.6c0.6,0.4,1.6-0.2,2.3-1.3c0.6-1.1,0.6-2.3,0-2.6
+				 M-363.9-1616.5c-0.6-0.4-1.6,0.2-2.3,1.3c-0.6,1.1-0.6,2.3,0,2.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-328-1634.6c0.6,0.4,1.6-0.2,2.3-1.3c0.6-1.1,0.6-2.3,0-2.6
+				 M-325.8-1638.5c-0.6-0.4-1.6,0.2-2.3,1.3c-0.6,1.1-0.6,2.3,0,2.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="non-scaling-stroke" class="st12" d="M-443.7-1641.5C-443.7-1641.5-443.7-1641.5-443.7-1641.5l38.1,22l0,0
+				c0,0,0,0,0.1,0l0,0L-443.7-1641.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-573.4-1638.9v-108.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-573.4-1750v2.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-512.9-1792.1c2.8-1.6,6.6-1.2,10.6,1.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-573.4-1750c0-4.6,1.6-8.1,4.4-9.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-569-1759.7c2.8-1.6,6.6-1.2,10.6,1.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-608.4-1741.6c-1.6-0.9-1.6-3.8,0-6.5c1.6-2.7,4.1-4.2,5.7-3.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-560.4-1616.3c-7.2-4.2-13-14.3-13-22.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-406.1-1735.5c7.2,4.2,13,14.3,13,22.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-560.4-1755.2l94.2,54.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-573.4-1747.6c0-8.3,5.8-11.7,13-7.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-466.2-1700.8c7.2,4.2,13,14.3,13,22.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-453.2-1678.2v25.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-453.2-1647.9v78.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-453.2-1569.4c0,8.3-5.8,11.7-13,7.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-466.2-1561.9l-94.2-54.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-502.3-1791l94.2,54.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-558.4-1758.6l94.2,54.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-393.1-1601.8c0,4.6-1.6,8.1-4.4,9.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-449.2-1569.4c0,4.6-1.6,8.1-4.4,9.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-453.6-1559.7c-2.8,1.6-6.6,1.2-10.6-1.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-464.2-1560.7l-2-1.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-393.1-1712.9v2.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-393.1-1710.6v17.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-393.1-1625.2v23.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-406.1-1735.5l-2-1.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-408.1-1736.6c8.3,4.8,15,16.5,15,26"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-464.2-1704.2c8.3,4.8,15,16.5,15,26"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-449.2-1678.2v17.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-449.2-1645.2v75.8"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-443.8-1641.6l-5.4-3.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-443.8-1641.6C-443.7-1641.6-443.7-1641.6-443.8-1641.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-443.7-1641.5C-443.7-1641.5-443.7-1641.5-443.7-1641.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-398.5-1696.3C-398.5-1696.3-398.5-1696.3-398.5-1696.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-398.5-1696.4c-0.4-0.2-0.9-0.2-1.4,0.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-399.9-1696.2l-42.3,24.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-442.3-1671.8c-0.6,0.3-1.1,0.9-1.5,1.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-443.8-1670.2l-5.4,9.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-449.2-1645.2l-4.8-3.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-453.9-1651.6c-0.7,1.3-0.7,2.7,0,3.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-449.2-1660.3l-4.8,8.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-405.7-1619.6l-10.2-6.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-405.7-1619.6C-405.7-1619.6-405.6-1619.6-405.7-1619.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-405.6-1619.6c0.4,0.2,0.9,0.2,1.4-0.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-404.2-1619.7l10.3-6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-384.2-1631.2l22.4-12.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-360.4-1645.7c-0.4,0.7-0.9,1.3-1.5,1.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-360.4-1645.7l1.5-2.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-353.4-1658.4l3.2-5.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-350.2-1667.5l-10.2-6.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-360.4-1674.3C-360.4-1674.3-360.4-1674.4-360.4-1674.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-360.4-1674.4c-0.4-0.2-0.9-0.2-1.4,0.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-361.9-1674.2l-42.3,24.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-404.2-1649.8c-0.6,0.3-1.1,0.9-1.5,1.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-405.7-1648.2l-10.2,18.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-350.2-1667.5c0.7,0.5,0.7,1.8,0,3.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-415.8-1629.6c-0.7,1.3-0.7,2.7,0,3.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-364-1662.6c-1.6,0.9-3.1,2.9-3.7,5c-0.6,2.1-0.3,3.9,0.9,4.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-361.2-1662.9c-0.8-0.4-1.8-0.3-2.8,0.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-402.1-1640.6c-1.6,0.9-3.1,2.9-3.7,5c-0.6,2.1-0.3,3.9,0.9,4.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-399.2-1640.9c-0.8-0.4-1.8-0.3-2.8,0.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-356-1658c-1.6,0.9-3.1,2.9-3.7,5c-0.6,2.1-0.3,3.9,0.9,4.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-358.8-1648.4c0.5,0.3,1.2,0.3,1.9,0.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-352.1-1656.6c-0.2-0.7-0.5-1.3-1.1-1.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-353.1-1658.2c-0.8-0.4-1.8-0.3-2.8,0.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-394.1-1636c-1.6,0.9-3.1,2.9-3.7,5s-0.3,3.9,0.9,4.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-396.9-1626.4c0.5,0.3,1.2,0.3,1.9,0.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-390.2-1634.6c-0.2-0.7-0.5-1.3-1.1-1.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-391.2-1636.2c-0.8-0.4-1.8-0.3-2.8,0.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-356-1657.3c-1.4,0.8-2.6,2.5-3.1,4.2c-0.5,1.8-0.2,3.3,0.7,3.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-353.6-1657.5c-0.6-0.4-1.5-0.3-2.4,0.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-394.1-1635.3c-1.4,0.8-2.6,2.5-3.1,4.2c-0.5,1.8-0.2,3.3,0.7,3.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-391.6-1635.5c-0.6-0.4-1.5-0.3-2.4,0.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-342.9-1650.4c-1.6,0.9-3.1,2.9-3.7,5c-0.6,2.1-0.3,3.9,0.9,4.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-340.1-1650.7c-0.8-0.4-1.8-0.3-2.8,0.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-381-1628.4c-1.6,0.9-3.1,2.9-3.7,5c-0.6,2.1-0.3,3.9,0.9,4.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-378.2-1628.7c-0.8-0.4-1.8-0.3-2.8,0.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-578.1-1720.7l4.7,3.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-578.1-1720.7c-0.9-0.6-1.6-1.5-1.9-2.6c-0.2-0.7-0.4-1.4-0.4-2.1
+				c0-1.1,0.2-2.2,0.5-3.3c0.5-1.6,1.5-3.3,2.6-4.5c1.1-1.2,2.3-2.1,3.6-2.6c0.1,0,0.2-0.1,0.2-0.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-512.9-1792.1l-56.1,32.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-608.4-1741.6l27.9,16.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-602.7-1751.4l27.9,16.1"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-397.5-1592.1l-56.1,32.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-443.7-1641.5l38.1,22"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-398.5-1696.4l38.1,22"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-353.1-1658.2l-8-4.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-358.8-1648.4l-8-4.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-391.2-1636.2l-8-4.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-396.9-1626.4l-8-4.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-342-1650.8l-11.5-6.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-346.8-1642.5l-11.5-6.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-380.1-1628.8l-11.5-6.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-384.9-1620.5l-11.5-6.7"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-326.5-1642.8l-13.6-7.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-332.1-1633l-13.6-7.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-364.6-1620.9l-13.6-7.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-370.2-1611l-13.6-7.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-332.1-1633c0.9,0.5,2,0.7,3.1,0.5c0.5-0.1,0.9-0.3,1.3-0.5c0.5-0.3,1-0.6,1.4-1
+				c0.9-0.9,1.6-2,1.9-3.2c0.1-0.6,0.2-1.1,0.2-1.7c0-0.5-0.1-1-0.2-1.4c-0.3-1-1-1.9-1.9-2.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-370.2-1611c0.9,0.5,2,0.7,3.1,0.5c0.5-0.1,0.9-0.3,1.3-0.5c0.5-0.3,1-0.6,1.4-1
+				c0.9-0.9,1.6-2,1.9-3.2c0.1-0.6,0.2-1.1,0.2-1.7c0-0.5-0.1-1-0.2-1.4c-0.3-1-1-1.9-1.9-2.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-578.1-1720.7c-1.7-1.1-2.1-3.9-1-7.1c1-3.2,3.3-6.1,5.7-7.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-502.3-1791l-56.1,32.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-558.4-1758.6l-2,3.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-408.1-1736.6l-56.1,32.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-393.1-1601.8l-56.1,32.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-464.2-1704.2l-2,3.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-449.2-1678.2h-4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-449.2-1569.4h-4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-393.1-1710.6l-56.1,32.4"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-443.8-1641.6l38.1,22"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-453.9-1648.4l38.1,22"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-398.5-1696.3l38,21.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-399.9-1696.2l38.1,22"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-442.3-1671.8l38.1,22"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-443.8-1670.2l38.1,22"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-453.9-1651.6l38.1,22"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-329.3-1642.6c-1.6,0.9-3.1,2.9-3.7,5c-0.6,2.1-0.3,3.9,0.9,4.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-326.5-1642.8c-0.8-0.4-1.8-0.3-2.8,0.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-367.4-1620.6c-1.6,0.9-3.1,2.9-3.7,5c-0.6,2.1-0.3,3.9,0.9,4.5"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-364.6-1620.9c-0.8-0.4-1.8-0.3-2.8,0.3"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-328-1634.6c0.6,0.4,1.6-0.2,2.3-1.3c0.6-1.1,0.6-2.3,0-2.6 M-325.8-1638.5
+				c-0.6-0.4-1.6,0.2-2.3,1.3c-0.6,1.1-0.6,2.3,0,2.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-366.1-1612.6c0.6,0.4,1.6-0.2,2.3-1.3c0.6-1.1,0.6-2.3,0-2.6 M-363.9-1616.5
+				c-0.6-0.4-1.6,0.2-2.3,1.3c-0.6,1.1-0.6,2.3,0,2.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-364-1662.6l8,4.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-402.1-1640.6l8,4.6"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-356-1657.3l12.5,7.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-394.1-1635.3l12.5,7.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-342.9-1650.4l13.6,7.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-381-1628.4l13.6,7.9"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-329.3-1642.6c1.3,0.8,2.4,2.6,2.4,4.2"/>
+		</g>
+		<g transform="matrix(1,0,0,1,651.614,2338.88)">
+			<path vector-effect="none" class="st13" d="M-367.4-1620.6c1.3,0.8,2.4,2.6,2.4,4.2"/>
+		</g>
+	</g>
+</g>
+<rect x="289.7" y="187.4" class="st17" width="57.5" height="11"/>
+<text transform="matrix(1 0 0 1 289.6716 195.9299)" class="st2 st18">Front View</text>
+<rect x="289.7" y="425.2" class="st17" width="57.5" height="11"/>
+<text transform="matrix(1 0 0 1 289.6716 433.7496)" class="st2 st18">Top View</text>
+<rect x="289.7" y="46.5" class="st17" width="67.1" height="9.4"/>
+<text transform="matrix(1 0 0 1 289.6716 55.0543)" class="st2 st18">Bottom View</text>
+<rect x="81.9" y="184.6" class="st17" width="57.5" height="11"/>
+<text transform="matrix(1 0 0 1 81.8581 193.1418)" class="st2 st18">Right View</text>
+<rect x="619.3" y="184.6" class="st17" width="57.5" height="11"/>
+<text transform="matrix(1 0 0 1 619.319 193.1418)" class="st2 st18">Left View</text>
+<rect x="855.4" y="187.4" class="st17" width="57.5" height="11"/>
+<text transform="matrix(1 0 0 1 855.3948 195.9299)" class="st2 st18">Rear View</text>
+<rect x="74.6" y="531.2" class="st17" width="77" height="11"/>
+<text transform="matrix(1 0 0 1 74.5617 539.696)" class="st2 st18">Isometric View</text>
+</svg>
